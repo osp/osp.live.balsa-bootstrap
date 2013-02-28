@@ -1,0 +1,2027 @@
+Alexandre Leray rendered
+— Créé le dépôt 
+Tuesday, 10th May 2011 - 12:04
+ 
+Alexandre Leray tattled
+— Commencé le page de drag and drop de fichiers 
+Tuesday, 10th May 2011 - 14:09
+ 
+Alexandre Leray said
+— Amélioré le design de la page drag'n drop 
+Tuesday, 10th May 2011 - 15:32
+ 
+Alexandre Leray confessed
+— Utilisation de dorparea.js modifié pour l'occasion 
+Tuesday, 10th May 2011 - 17:58
+ 
+Alexandre Leray stated
+— Customizé le html5 drag n drop 
+Tuesday, 10th May 2011 - 19:41
+ 
+Alexandre Leray let the cat out of the bag
+— Ajouté le répertoire "uploads" au gitignore 
+Tuesday, 10th May 2011 - 19:45
+ 
+Alexandre Leray shouted
+— Merge branch 'master' into custom_droparea.js 
+Wednesday, 11th May 2011 - 12:45
+ 
+Alexandre Leray whispered
+— Créé un dossier pour le programme et ses sources 
+Wednesday, 18th May 2011 - 11:47
+ 
+Alexandre Leray argued
+— 1er formatage markdown la version 1 du programme 
+Wednesday, 18th May 2011 - 14:07
+ 
+Alexandre Leray complained
+— Created a script to upload files by email 
+Wednesday, 18th May 2011 - 20:33
+ 
+Ludivine Loiseau published
+— ajout des fichiers fonts collection de modules 
+Wednesday, 18th May 2011 - 21:16
+ 
+Hélène said
+— experimentation context 
+Thursday, 19th May 2011 - 15:49
+ 
+Alexandre Leray shouted
+— Tests de mon côté pour le booklet 
+Thursday, 19th May 2011 - 16:17
+ 
+Hélène discovered
+— Ajouté 1 script pour convertir les images du Booklet + les images converties 
+Thursday, 19th May 2011 - 18:04
+ 
+Alexandre Leray complained
+— D'autres tests pour le booklet 
+Thursday, 19th May 2011 - 19:21
+ 
+Alexandre Leray verbalized
+— Ajouté des fichiers podofo pour l'imposition 
+Thursday, 19th May 2011 - 19:22
+ 
+Alexandre Leray uttered
+— Merge remote branch 'origin/master' 
+Thursday, 19th May 2011 - 19:26
+ 
+Stéphanie Vilayphiou ironized
+— add pdf-list for podofo 
+Friday, 20th May 2011 - 11:25
+ 
+Stéphanie Vilayphiou published
+— put back ludi identity folder 
+Friday, 20th May 2011 - 11:26
+ 
+Pierre Huyghebaertsaid
+— morceaux 
+Friday, 20th May 2011 - 12:47
+ 
+Ludivine Loiseau let loose
+— ajout fichier recherche logo 
+Saturday, 21st May 2011 - 11:03
+ 
+Alexandre Leray expressed
+— test steph. 1 colonne, tentative d'utilisation de la MARGE 
+Friday, 27th May 2011 - 22:41
+ 
+Alexandre Leray verbalized
+— sections, titles, table of content. title page + cleaning 
+Saturday, 28th May 2011 - 16:10
+ 
+Alexandre Leray emited
+— sections, titles, table of content. title page + cleaning 
+Saturday, 28th May 2011 - 16:12
+ 
+Alexandre Leray gave away
+— cleaning layout and margins 
+Saturday, 28th May 2011 - 21:20
+ 
+Ludivine Loiseau let on
+— ajout des fichiers textes, plan, agenda + photos Ichem 
+Sunday, 29th May 2011 - 17:19
+ 
+Ludivine Loiseau stated
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Sunday, 29th May 2011 - 17:19
+ 
+Ludivine Loiseau rendered
+— fontes size mix test 
+Sunday, 29th May 2011 - 18:33
+ 
+Stéphanie Vilayphiou babbled out
+— setup indentations 
+Sunday, 29th May 2011 - 18:48
+ 
+pierreh revealed
+— pierreh  se met enfin en git balsa mode, enfin essaie, espere ne rien casser 
+Sunday, 29th May 2011 - 18:57
+ 
+Stéphanie Vilayphiou talked
+— ignore openoffice temp files 
+Sunday, 29th May 2011 - 19:03
+ 
+Stéphanie Vilayphiou babbled out
+— put tests in tests folder 
+Sunday, 29th May 2011 - 19:30
+ 
+Ludivine Loiseau divulged
+— Ume Balsa et layout tests 
+Monday, 30th May 2011 - 00:48
+ 
+Stéphanie Vilayphiou revealed
+— new project structure. start to work on structure styles. paragraphs, headings 
+Monday, 30th May 2011 - 01:12
+ 
+Stéphanie Vilayphiou bring out
+— Merge branch 'master' of git.constantvzw.org:balsamine into alex 
+Monday, 30th May 2011 - 01:13
+ 
+Stéphanie Vilayphiou cried
+— reclean structure folder 
+Monday, 30th May 2011 - 01:15
+ 
+pierreh interpreted
+— logo un peu 
+Monday, 30th May 2011 - 01:21
+ 
+pierreh song
+— logo un peu 
+Monday, 30th May 2011 - 01:21
+ 
+Stéphanie Vilayphiou song
+— Merge branch 'alex' 
+Monday, 30th May 2011 - 01:24
+ 
+Alexandre Leray song
+— programme version définitive! j'ai modifié légèrement le html (corrections typos essentiellement) 
+Tuesday, 31st May 2011 - 16:55
+ 
+Alexandre Leray revealed
+— programme piqure à cheval 
+Wednesday, 1st June 2011 - 02:37
+ 
+Alexandre Leray babbled out
+— ume gothic version écriture verticale 
+Wednesday, 1st June 2011 - 02:38
+ 
+Ludivine Loiseau interpreted
+— suite logo et start posters 
+Wednesday, 1st June 2011 - 10:12
+ 
+Alexandre Leray let out
+— programme pour présentation balsa 2 
+Wednesday, 1st June 2011 - 18:30
+ 
+Alexandre Leray cried
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 1st June 2011 - 18:30
+ 
+Alexandre Leray gave away
+— clean styles 
+Wednesday, 1st June 2011 - 18:45
+ 
+Ludivine Loiseau blabed
+— ajustement logo par Piet + suite posters et début dessins photos 
+Wednesday, 1st June 2011 - 22:26
+ 
+Stéphanie Vilayphiou spoke
+— images in context 
+Friday, 3rd June 2011 - 13:10
+ 
+Stéphanie Vilayphiou let on
+— programme ultime 3 
+Friday, 3rd June 2011 - 13:10
+ 
+Stéphanie Vilayphiou tweeted
+— affiner espaces 
+Friday, 3rd June 2011 - 17:29
+ 
+Stéphanie Vilayphiou argued
+— logos partenaires 
+Friday, 3rd June 2011 - 17:29
+ 
+Stéphanie Vilayphiou blabed
+— commencé à traiter le doc ultime 
+Friday, 3rd June 2011 - 17:30
+ 
+Alexandre Leray spilled the beans
+— formatage du texte. sections. espaces ponctuations. capitales accentuées. double espace. paragraphes consécutifs ou non 
+Friday, 3rd June 2011 - 19:12
+ 
+Alexandre Leray said
+— redécoupage du contenu en articles 
+Friday, 3rd June 2011 - 19:12
+ 
+Alexandre Leray blabed
+— format edito + martine 
+Friday, 3rd June 2011 - 19:24
+ 
+Alexandre Leray rendered
+— remis les réglages de marge et d'image pour martine 
+Friday, 3rd June 2011 - 19:30
+ 
+Alexandre Leray published
+— bold= suoligné rouge. traité 3 et 4 
+Friday, 3rd June 2011 - 19:52
+ 
+Stéphanie Vilayphiou said
+— fix staff definition list bug 
+Saturday, 4th June 2011 - 13:30
+ 
+Stéphanie Vilayphiou cried
+— footnotes. traité 4 et 5 
+Saturday, 4th June 2011 - 14:25
+ 
+Stéphanie Vilayphiou published
+— footnotes. traité 4 et 5 
+Saturday, 4th June 2011 - 14:28
+ 
+Stéphanie Vilayphiou babbled out
+— production block. traité 6--12 
+Saturday, 4th June 2011 - 15:20
+ 
+Stéphanie Vilayphiou blabed out
+— numéro 13 
+Saturday, 4th June 2011 - 19:32
+ 
+Ludivine Loiseau expressed
+— une to do liste 
+Saturday, 4th June 2011 - 19:56
+ 
+Stéphanie Vilayphiou discovered
+— 14 -- 18 + citations imbriquées + todo 
+Saturday, 4th June 2011 - 21:27
+ 
+Ludivine Loiseau spoke
+— premier pdf context ludi 
+Saturday, 4th June 2011 - 21:31
+ 
+Ludivine Loiseau unwraped
+— go 
+Saturday, 4th June 2011 - 21:58
+ 
+Stéphanie Vilayphiou let loose
+— fini de couler 
+Sunday, 5th June 2011 - 18:09
+ 
+Ludivine Loiseau uttered
+— photos Hichem livraison 1 - low 
+Monday, 6th June 2011 - 23:07
+ 
+Ludivine Loiseau ironized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 6th June 2011 - 23:08
+ 
+Ludivine Loiseau blabed out
+— +1 
+Monday, 6th June 2011 - 23:11
+ 
+rootrevealed
+— commencé à appliquer les styles en dur 
+Tuesday, 7th June 2011 - 01:56
+ 
+Ludivine Loiseau blabed out
+— gimp export paths svg Sabine à partir des psd 
+Tuesday, 7th June 2011 - 11:34
+ 
+Ludivine Loiseau let out
+— start poster portraits 
+Tuesday, 7th June 2011 - 12:56
+ 
+Ludivine Loiseau stated
+— suite poster er détourages 
+Tuesday, 7th June 2011 - 14:26
+ 
+Alexandre Leray bring out
+— petits réglages. listes, staff... 
+Tuesday, 7th June 2011 - 14:28
+ 
+Alexandre Leray verbalized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 7th June 2011 - 14:28
+ 
+Ludivine Loiseau ironized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 7th June 2011 - 14:29
+ 
+Alexandre Leray argued
+— test schéma sabine 
+Tuesday, 7th June 2011 - 14:48
+ 
+Alexandre Leray interpreted
+— lettrines partout. page équipe en 2cols 
+Tuesday, 7th June 2011 - 14:56
+ 
+Alexandre Leray blabed out
+— staff lists en générique 
+Tuesday, 7th June 2011 - 15:00
+ 
+Alexandre Leray disclosed
+— indent staff list 
+Tuesday, 7th June 2011 - 15:10
+ 
+Ludivine Loiseau tattled
+— test vignette sabine 
+Tuesday, 7th June 2011 - 15:12
+ 
+Alexandre Leray stated
+— stylé playsubtitle 
+Tuesday, 7th June 2011 - 15:13
+ 
+Alexandre Leray told
+— stylé playsubtitle 
+Tuesday, 7th June 2011 - 15:14
+ 
+Alexandre Leray interpreted
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 7th June 2011 - 15:25
+ 
+Alexandre Leray peached
+— vignette sabine 
+Tuesday, 7th June 2011 - 15:27
+ 
+Alexandre Leray divulged
+— test staff list tout centré 
+Tuesday, 7th June 2011 - 15:27
+ 
+Ludivine Loiseau peached
+— to do new 
+Tuesday, 7th June 2011 - 15:28
+ 
+Alexandre Leray exposed
+— modifs suggestions ludi 
+Tuesday, 7th June 2011 - 15:54
+ 
+Alexandre Leray whistled
+— artiste + petit. titre + grand 
+Tuesday, 7th June 2011 - 16:08
+ 
+Alexandre Leray divulged
+— artiste + petit. titre + grand 
+Tuesday, 7th June 2011 - 16:08
+ 
+Alexandre Leray disclosed
+— maquette asymétrique 
+Tuesday, 7th June 2011 - 16:11
+ 
+Stéphanie Vilayphiou blabed out
+— les vignettes dans les marges! 
+Tuesday, 7th June 2011 - 17:25
+ 
+Ludivine Loiseau interpreted
+— psd pour test script 
+Tuesday, 7th June 2011 - 17:28
+ 
+Ludivine Loiseau cried
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 7th June 2011 - 17:29
+ 
+Ludivine Loiseau peached
+— psd vers script 
+Tuesday, 7th June 2011 - 17:34
+ 
+Stéphanie Vilayphiou shouted
+— réglages césures. add howto PSD to SVG dans readme 
+Tuesday, 7th June 2011 - 18:40
+ 
+Stéphanie Vilayphiou babbled
+— ajouté une espace manquante 
+Tuesday, 7th June 2011 - 18:44
+ 
+Ludivine Loiseau blabed out
+— les euros dans la Gothic et la Ring 
+Tuesday, 7th June 2011 - 20:12
+ 
+Stéphanie Vilayphiou exposed
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 7th June 2011 - 21:49
+ 
+Stéphanie Vilayphiou babbled out
+— gimp plugin to transform layers to svg 
+Wednesday, 8th June 2011 - 02:05
+ 
+Stéphanie Vilayphiou ironized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 8th June 2011 - 10:56
+ 
+Ludivine Loiseau let the cat out of the bag
+— logo suite 
+Wednesday, 8th June 2011 - 11:17
+ 
+Stéphanie Vilayphiou rendered
+— changé les chemins dans plugin gimp 
+Wednesday, 8th June 2011 - 11:26
+ 
+Stéphanie Vilayphiou blabed
+— déplacé readme à la racine 
+Wednesday, 8th June 2011 - 11:26
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— changé chemin + copyright dans plugin 
+Wednesday, 8th June 2011 - 11:49
+ 
+Stéphanie Vilayphiou unwraped
+— instructions pour utiliser le plugin gimp 
+Wednesday, 8th June 2011 - 11:49
+ 
+Stéphanie Vilayphiou divulged
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 8th June 2011 - 11:56
+ 
+Ludivine Loiseau argued
+— logo brico 
+Wednesday, 8th June 2011 - 12:25
+ 
+Stéphanie Vilayphiou let loose
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 8th June 2011 - 15:40
+ 
+Stéphanie Vilayphiou revealed
+— euros à la place de € 
+Wednesday, 8th June 2011 - 19:18
+ 
+Stéphanie Vilayphiou argued
+— nouveaux logos 
+Wednesday, 8th June 2011 - 19:18
+ 
+Stéphanie Vilayphiou gave away
+— agenda! 
+Thursday, 9th June 2011 - 00:21
+ 
+Ludivine Loiseau argued
+— poster suite et logo en morceaux 
+Thursday, 9th June 2011 - 00:33
+ 
+Ludivine Loiseau complained
+— reprise logo - test labyrinthe 
+Thursday, 9th June 2011 - 09:07
+ 
+Ludivine Loiseau verbalized
+— logo passage relais to Pierre 
+Thursday, 9th June 2011 - 14:03
+ 
+Ludivine Loiseau whistled
+— tracés en eps 
+Thursday, 9th June 2011 - 14:31
+ 
+Stéphanie Vilayphiou peached
+— infos en marge. retouches taille. retouche agenda 
+Thursday, 9th June 2011 - 14:36
+ 
+Stéphanie Vilayphiou complained
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 9th June 2011 - 14:36
+ 
+Stéphanie Vilayphiou tweeted
+— svg -> png 
+Thursday, 9th June 2011 - 14:53
+ 
+Ludivine Loiseau said
+— trqc2s png 
+Thursday, 9th June 2011 - 14:53
+ 
+Stéphanie Vilayphiou rendered
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 9th June 2011 - 14:54
+ 
+Ludivine Loiseau babbled
+— go 
+Thursday, 9th June 2011 - 15:08
+ 
+Stéphanie Vilayphiou spoke
+— vignettes 
+Thursday, 9th June 2011 - 15:08
+ 
+Stéphanie Vilayphiou let loose
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 9th June 2011 - 15:09
+ 
+Ludivine Loiseau said
+— svg eps png 
+Friday, 10th June 2011 - 01:20
+ 
+Stéphanie Vilayphiou claimed
+— corrections + reste vignette 
+Friday, 10th June 2011 - 01:30
+ 
+Stéphanie Vilayphiou let loose
+— pb image sur odile 
+Friday, 10th June 2011 - 01:40
+ 
+Stéphanie Vilayphiou said
+— update todo 
+Friday, 10th June 2011 - 11:38
+ 
+Ludivine Loiseau babbled out
+— derniers psd, svg Hichem, mise à jour To Do et fichier corrections Word 
+Friday, 10th June 2011 - 20:41
+ 
+Ludivine Loiseau revealed
+— corrections en cours et probleme de génération du pdf 
+Saturday, 11th June 2011 - 12:42
+ 
+Ludivine Loiseau song
+— corrections quasi ok 
+Saturday, 11th June 2011 - 16:09
+ 
+Ludivine Loiseau tattled
+— spiro de cheveux grecs 
+Saturday, 11th June 2011 - 21:03
+ 
+Ludivine Loiseau expressed
+— mail sur la rampe de lancement dans la To Do liste 
+Saturday, 11th June 2011 - 23:49
+ 
+Ludivine Loiseau confessed
+— start cdv et vecto logo partners 
+Sunday, 12th June 2011 - 13:21
+ 
+Ludivine Loiseau stated
+— partie photos version 1 
+Sunday, 12th June 2011 - 17:15
+ 
+Ludivine Loiseau whistled
+— partie photos version 2 
+Sunday, 12th June 2011 - 17:46
+ 
+Ludivine Loiseau peached
+— superpositions portraits svg - montage cover avec enveloppe coupée 
+Monday, 13th June 2011 - 12:05
+ 
+Ludivine Loiseau gave away
+— titres hichem 
+Monday, 13th June 2011 - 12:53
+ 
+Ludivine Loiseau said
+— ajout des derniers tiff et svg portraits, titres dans partie photos et test d'outline text dans les styles (failed) 
+Monday, 13th June 2011 - 16:41
+ 
+Ludivine Loiseau said
+— premiers résultats graphviz sur les tarifs 
+Monday, 13th June 2011 - 21:03
+ 
+Ludivine Loiseau whispered
+— graphviz step 2 
+Monday, 13th June 2011 - 21:30
+ 
+pierreh said
+— logo structure labyrinthe 
+Monday, 13th June 2011 - 23:44
+ 
+pierreh talked
+— logo dans le cercle - ultra bizarre 
+Tuesday, 14th June 2011 - 00:24
+ 
+Ludivine Loiseau shouted
+— graphviz on t'aura 
+Tuesday, 14th June 2011 - 02:46
+ 
+Ludivine Loiseau ironized
+— cahier couleur, partie infos, plan 
+Wednesday, 15th June 2011 - 00:19
+ 
+Ludivine Loiseau spilled the beans
+— et un peu de menage 
+Wednesday, 15th June 2011 - 00:23
+ 
+Alexandre Leray let out
+— corrections + trucs dans les marges revisités, du coup ligne de base ok 
+Wednesday, 15th June 2011 - 02:52
+ 
+Ludivine Loiseau blabed
+— mardi 
+Wednesday, 15th June 2011 - 01:11
+ 
+Ludivine Loiseau argued
+— recup styles steph 
+Wednesday, 15th June 2011 - 12:37
+ 
+Stéphanie Vilayphiou talked
+— réparation bis 
+Wednesday, 15th June 2011 - 14:39
+ 
+Alexandre Leray published
+— Ajouté le graphviz pour notre présentation 
+Thursday, 16th June 2011 - 00:22
+ 
+Ludivine Loiseau spoke
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 15th June 2011 - 22:26
+ 
+Ludivine Loiseau said
+— tetris part starting 
+Thursday, 16th June 2011 - 00:04
+ 
+Stéphanie Vilayphiou spoke
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 00:19
+ 
+Stéphanie Vilayphiou expressed
+— agenda custom gantt 
+Thursday, 16th June 2011 - 01:10
+ 
+Stéphanie Vilayphiou uttered
+— vignettes 300dpi. isabelle nouzha frame 
+Thursday, 16th June 2011 - 02:13
+ 
+Alexandre Leray let out
+— Reglé le style "bold" (encadrés dans le texte) 
+Thursday, 16th June 2011 - 04:13
+ 
+Alexandre Leray spoke
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 04:14
+ 
+Ludivine Loiseau said
+— cover svg et pages infos ok 1 
+Thursday, 16th June 2011 - 04:16
+ 
+pierreh shouted
+— cover presque la 
+Thursday, 16th June 2011 - 04:27
+ 
+pierreh divulged
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 04:27
+ 
+pierreh revealed
+— la cover 
+Thursday, 16th June 2011 - 04:35
+ 
+pierreh discovered
+— la cover une variante 
+Thursday, 16th June 2011 - 04:40
+ 
+Stéphanie Vilayphiou ironized
+— umepgothicbalsa 
+Thursday, 16th June 2011 - 04:49
+ 
+Stéphanie Vilayphiou tattled
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 04:49
+ 
+pierreh bring out
+— la cover 2 eps 
+Thursday, 16th June 2011 - 04:50
+ 
+Stéphanie Vilayphiou said
+— constellations 
+Thursday, 16th June 2011 - 04:51
+ 
+Stéphanie Vilayphiou emited
+— agenda sur A5 
+Thursday, 16th June 2011 - 04:52
+ 
+Stéphanie Vilayphiou let loose
+— agenda A5 dans print 
+Thursday, 16th June 2011 - 04:52
+ 
+pierreh expressed
+— la cover 2 pdf 
+Thursday, 16th June 2011 - 04:55
+ 
+Stéphanie Vilayphiou said
+— constellations bis 
+Thursday, 16th June 2011 - 05:18
+ 
+pierreh verbalized
+— logo clean 
+Thursday, 16th June 2011 - 05:18
+ 
+pierreh shouted
+— logo a4 
+Thursday, 16th June 2011 - 05:22
+ 
+Stéphanie Vilayphiou argued
+— derniers ajustements 
+Thursday, 16th June 2011 - 05:26
+ 
+Stéphanie Vilayphiou ironized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 05:27
+ 
+Stéphanie Vilayphiou cried
+— todo 
+Thursday, 16th June 2011 - 14:53
+ 
+Ludivine Loiseau published
+— c'est reparti 
+Thursday, 16th June 2011 - 15:20
+ 
+Stéphanie Vilayphiou cried
+— lien entre salon refusés 1 et 2. festival genèse= nuages de points 
+Thursday, 16th June 2011 - 16:26
+ 
+Stéphanie Vilayphiou revealed
+— sauts de lignes dans OSP 
+Thursday, 16th June 2011 - 16:29
+ 
+Stéphanie Vilayphiou spoke
+— sauts de lignes dans OSP 
+Thursday, 16th June 2011 - 16:33
+ 
+Stéphanie Vilayphiou whispered
+— grands espaces dans les titres. genèse: Big titre 
+Thursday, 16th June 2011 - 16:48
+ 
+Stéphanie Vilayphiou let on
+— encadré début programme genèse 
+Thursday, 16th June 2011 - 16:59
+ 
+Stéphanie Vilayphiou blabed
+— encadré début programme genèse 
+Thursday, 16th June 2011 - 17:01
+ 
+Stéphanie Vilayphiou whispered
+— saut de ligne dans signatures 
+Thursday, 16th June 2011 - 17:03
+ 
+Stéphanie Vilayphiou emited
+— saut de ligne dans signatures 
+Thursday, 16th June 2011 - 17:03
+ 
+Stéphanie Vilayphiou emited
+— saut de ligne quand il n'y a pas de 'role', évite superposition dessin et texte en marge 
+Thursday, 16th June 2011 - 17:52
+ 
+Stéphanie Vilayphiou divulged
+— URLs soulignées en context 
+Thursday, 16th June 2011 - 17:55
+ 
+Ludivine Loiseau babbled out
+— corrections ok 
+Thursday, 16th June 2011 - 18:33
+ 
+Stéphanie Vilayphiou blabed out
+— footnote martine dans marges. * à gauche 
+Thursday, 16th June 2011 - 18:47
+ 
+Stéphanie Vilayphiou confessed
+— footnote osp dans la marge 
+Thursday, 16th June 2011 - 18:52
+ 
+Stéphanie Vilayphiou let loose
+— schéma osp centré 
+Thursday, 16th June 2011 - 19:19
+ 
+Stéphanie Vilayphiou revealed
+— merge avec ludi 
+Thursday, 16th June 2011 - 19:30
+ 
+Stéphanie Vilayphiou confessed
+— enlevé ** dans osp 
+Thursday, 16th June 2011 - 19:32
+ 
+Stéphanie Vilayphiou verbalized
+— coquille dans odile 
+Thursday, 16th June 2011 - 19:34
+ 
+Stéphanie Vilayphiou emited
+— mini erreur de souligné 
+Thursday, 16th June 2011 - 19:35
+ 
+Stéphanie Vilayphiou gave away
+— salon des refusés. formatage texte marge 
+Thursday, 16th June 2011 - 19:43
+ 
+Stéphanie Vilayphiou disclosed
+— corrections agenda 
+Thursday, 16th June 2011 - 20:09
+ 
+Stéphanie Vilayphiou let out
+— todo 
+Thursday, 16th June 2011 - 20:10
+ 
+Stéphanie Vilayphiou babbled
+— todo 
+Thursday, 16th June 2011 - 20:32
+ 
+Ludivine Loiseau babbled out
+— sur la rampe 
+Thursday, 16th June 2011 - 20:33
+ 
+Stéphanie Vilayphiou let out
+— original constellations 
+Thursday, 16th June 2011 - 20:33
+ 
+Stéphanie Vilayphiou said
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 16th June 2011 - 20:34
+ 
+Stéphanie Vilayphiou talked
+— folio en gothic vertical 
+Thursday, 16th June 2011 - 22:18
+ 
+Ludivine Loiseau peached
+— b qui joue de l'orgue 
+Thursday, 16th June 2011 - 22:56
+ 
+Stéphanie Vilayphiou exposed
+— pdf 64 pages généré direct depuis context 
+Thursday, 16th June 2011 - 23:19
+ 
+Stéphanie Vilayphiou expressed
+— pagination commence à la cover. pages blanches sans numéros 
+Friday, 17th June 2011 - 00:09
+ 
+Stéphanie Vilayphiou rendered
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 00:09
+ 
+Stéphanie Vilayphiou let out
+— todo updaté 
+Friday, 17th June 2011 - 00:12
+ 
+pierreh babbled out
+— organ in the b in the font 
+Friday, 17th June 2011 - 00:18
+ 
+pierreh discovered
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 00:26
+ 
+pierreh rendered
+— constellations high def 
+Friday, 17th June 2011 - 00:40
+ 
+Stéphanie Vilayphiou whispered
+— coquille martine 
+Friday, 17th June 2011 - 01:04
+ 
+Stéphanie Vilayphiou disclosed
+— git log + refait pages blanches 
+Friday, 17th June 2011 - 01:24
+ 
+Stéphanie Vilayphiou published
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 01:24
+ 
+Ludivine Loiseau verbalized
+— vignettes et first pdf 
+Friday, 17th June 2011 - 01:27
+ 
+Stéphanie Vilayphiou tweeted
+— Merge remote-tracking branch 'origin/master' 
+Friday, 17th June 2011 - 01:32
+ 
+Stéphanie Vilayphiou blabed
+— jpg mis à jour 
+Friday, 17th June 2011 - 01:41
+ 
+pierreh discovered
+— constellations vectorisé 
+Friday, 17th June 2011 - 02:05
+ 
+pierreh let on
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 02:06
+ 
+pierreh interpreted
+— cover def en svg 
+Friday, 17th June 2011 - 02:08
+ 
+Ludivine Loiseau whispered
+— constellation et miniature 
+Friday, 17th June 2011 - 02:15
+ 
+Stéphanie Vilayphiou revealed
+— graph noms 
+Friday, 17th June 2011 - 02:16
+ 
+Stéphanie Vilayphiou let on
+— track gitlog 
+Friday, 17th June 2011 - 02:16
+ 
+pierreh stated
+— cover def en pdf 
+Friday, 17th June 2011 - 02:16
+ 
+Stéphanie Vilayphiou talked
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 02:17
+ 
+Stéphanie Vilayphiou whistled
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 02:17
+ 
+pierreh confessed
+— schema osp bitmapped 
+Friday, 17th June 2011 - 03:00
+ 
+Stéphanie Vilayphiou spoke
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 03:01
+ 
+Stéphanie Vilayphiou let on
+— dernières retouches 
+Friday, 17th June 2011 - 03:24
+ 
+Ludivine Loiseau tattled
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 17th June 2011 - 03:26
+ 
+Stéphanie Vilayphiou told
+— plan podofo superposition 
+Friday, 17th June 2011 - 03:27
+ 
+Ludivine Loiseau claimed
+— constellations 
+Friday, 17th June 2011 - 03:33
+ 
+Ludivine Loiseau said
+— reparation constellations 
+Friday, 17th June 2011 - 03:34
+ 
+Ludivine Loiseau exposed
+— fichiers pour constellations 
+Friday, 17th June 2011 - 03:35
+ 
+Ludivine Loiseau disclosed
+— etoiles 
+Friday, 17th June 2011 - 03:44
+ 
+Stéphanie Vilayphiou cried
+— constellations ! 
+Friday, 17th June 2011 - 03:45
+ 
+Stéphanie Vilayphiou uttered
+— git log FINAAAAAAAAAAAAAAAAAAAL 
+Friday, 17th June 2011 - 03:48
+ 
+Stéphanie Vilayphiou confessed
+— envoi déf 
+Friday, 17th June 2011 - 03:49
+ 
+Stéphanie Vilayphiou said
+— envoie genèse 
+Friday, 17th June 2011 - 03:50
+ 
+pierreh said
+— cover sans din 
+Friday, 17th June 2011 - 04:01
+ 
+Ludivine Loiseau gave away
+— yepla 
+Friday, 17th June 2011 - 16:53
+ 
+Ludivine Loiseau expressed
+— logo bus start 
+Monday, 20th June 2011 - 16:19
+ 
+Stéphanie Vilayphiou cried
+— update todo 
+Tuesday, 21st June 2011 - 18:05
+ 
+Stéphanie Vilayphiou whistled
+— update email2ftp 
+Wednesday, 22nd June 2011 - 11:07
+ 
+Stéphanie Vilayphiou cried
+— create folder pince-www, put scripts in it 
+Wednesday, 22nd June 2011 - 11:08
+ 
+Ludivine Loiseau exposed
+— autocollants et fonte logo en cours 
+Wednesday, 22nd June 2011 - 18:27
+ 
+Ludivine Loiseau confessed
+— enveloppe C5 start 
+Friday, 24th June 2011 - 10:45
+ 
+Ludivine Loiseau uttered
+— C5 dans le pipeline 
+Monday, 27th June 2011 - 17:35
+ 
+Stéphanie Vilayphiou whispered
+— dossier logo def 
+Wednesday, 29th June 2011 - 12:29
+ 
+Stéphanie Vilayphiou rendered
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 29th June 2011 - 12:30
+ 
+Stéphanie Vilayphiou talked
+— renommé logo def svg 
+Wednesday, 29th June 2011 - 12:31
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— renommé Ichem en hichem ! 
+Wednesday, 29th June 2011 - 12:33
+ 
+Ludivine Loiseau interpreted
+— lettre from pince 
+Wednesday, 29th June 2011 - 19:33
+ 
+Stéphanie Vilayphiou stated
+— photos hichem 300dpi. renommées pour la presse, avec métadonnées 
+Thursday, 30th June 2011 - 17:46
+ 
+Ludivine Loiseau talked
+— check point 
+Friday, 1st July 2011 - 13:07
+ 
+Ludivine Loiseau said
+— letter suite 
+Monday, 4th July 2011 - 17:32
+ 
+Stéphanie Vilayphiou divulged
+— gros menage 
+Monday, 4th July 2011 - 23:48
+ 
+Stéphanie Vilayphiou uttered
+— vignettes pour news 
+Monday, 4th July 2011 - 23:50
+ 
+Stéphanie Vilayphiou babbled
+— debut balsa pack 
+Monday, 4th July 2011 - 23:50
+ 
+Stéphanie Vilayphiou expressed
+— rm autosave 
+Monday, 4th July 2011 - 23:52
+ 
+Stéphanie Vilayphiou interpreted
+— ignore *.autosave 
+Monday, 4th July 2011 - 23:53
+ 
+Stéphanie Vilayphiou said
+— papeterie dans balsapack 
+Monday, 4th July 2011 - 23:53
+ 
+Stéphanie Vilayphiou unwraped
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 4th July 2011 - 23:53
+ 
+Stéphanie Vilayphiou ironized
+— rm balsa-pack 
+Thursday, 7th July 2011 - 23:42
+ 
+Stéphanie Vilayphiou uttered
+— notes de monica dans todo et import_txt. planning! 
+Friday, 8th July 2011 - 00:28
+ 
+Ludivine Loiseau let the cat out of the bag
+— doc suite des supports et échéances 
+Monday, 11th July 2011 - 23:36
+ 
+Stéphanie Vilayphiou unwraped
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 12th July 2011 - 15:14
+ 
+Stéphanie Vilayphiou rendered
+— update todo avec tous les objets à produire 
+Tuesday, 12th July 2011 - 15:51
+ 
+Ludivine Loiseau verbalised
+— suite lettre, ajout offres admin et txt programme Genèse 
+Wednesday, 13th July 2011 - 12:15
+ 
+Ludivine Loiseau let loose
+— cartes visite et txt Genèse dernière version 
+Wednesday, 13th July 2011 - 14:42
+ 
+Stéphanie Vilayphiou talked
+— planning todo dans calendar gmail + structure site balsa par monica 
+Friday, 15th July 2011 - 00:32
+ 
+Stéphanie Vilayphiou babbled out
+— infos budget dans todo 
+Friday, 15th July 2011 - 14:44
+ 
+Stéphanie Vilayphiou discovered
+— corrections typo dans le programme genèse .doc 
+Friday, 15th July 2011 - 14:44
+ 
+Ludivine Loiseau whispered
+— la genese splitée 
+Friday, 15th July 2011 - 17:03
+ 
+Ludivine Loiseau disclosed
+— et la suite 
+Friday, 15th July 2011 - 17:28
+ 
+Alexandre Leray emited
+— Débrousaillé 3 jours de genèse 
+Friday, 15th July 2011 - 18:39
+ 
+Ludivine Loiseau said
+— first run nettoyage et style communs 
+Friday, 15th July 2011 - 18:39
+ 
+Edu complained
+— clean up two of genesse 
+Friday, 15th July 2011 - 18:40
+ 
+Edu babbled out
+— Merge branch 'master' of 192.168.0.133:work/balsamine 
+Friday, 15th July 2011 - 18:41
+ 
+Alexandre Leray said
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 15th July 2011 - 18:46
+ 
+Alexandre Leray tattled
+— Programme genese: changé les styles des jours 
+Friday, 15th July 2011 - 19:21
+ 
+Stéphanie Vilayphiou whispered
+— todo urgent 
+Sunday, 17th July 2011 - 19:04
+ 
+Ludivine Loiseau stated
+— ajout de mesures floues pour façade et bâche dans la to-do 
+Monday, 18th July 2011 - 00:00
+ 
+Stéphanie Vilayphiou talked
+— update todo 
+Friday, 22nd July 2011 - 12:25
+ 
+Stéphanie Vilayphiou babbled
+— mv genese dossier au-dessus 
+Friday, 22nd July 2011 - 12:40
+ 
+Stéphanie Vilayphiou said
+— started to put nl texts 
+Monday, 25th July 2011 - 23:58
+ 
+Michael Murtaugh whistled
+— added fr-nl-tests folder 
+Wednesday, 27th July 2011 - 10:57
+ 
+Stéphanie Vilayphiou said
+— corrections pierre megos 
+Friday, 29th July 2011 - 16:46
+ 
+Stéphanie Vilayphiou discovered
+— Merge branch 'master' of ../balsamine 
+Friday, 29th July 2011 - 16:49
+ 
+Stéphanie Vilayphiou talked
+— tests genese hichem 
+Monday, 1st August 2011 - 15:49
+ 
+Stéphanie Vilayphiou unwraped
+— un peu de ménage dans dossier d'hichem 
+Monday, 1st August 2011 - 15:50
+ 
+Stéphanie Vilayphiou talked
+— nouveaux docs from balsa 
+Monday, 1st August 2011 - 15:52
+ 
+Stéphanie Vilayphiou claimed
+— remis typo balsa dans plan svg 
+Tuesday, 2nd August 2011 - 18:35
+ 
+Stéphanie Vilayphiou peached
+— modifs steph 
+Wednesday, 3rd August 2011 - 16:29
+ 
+Stéphanie Vilayphiou shouted
+— coulé le texte genese 
+Thursday, 4th August 2011 - 16:14
+ 
+Stéphanie Vilayphiou stated
+— nouveaux textes sites 
+Friday, 5th August 2011 - 12:02
+ 
+Stéphanie Vilayphiou ironized
+— new content for site 
+Monday, 8th August 2011 - 15:35
+ 
+Stéphanie Vilayphiou whispered
+— photo genese def 
+Monday, 8th August 2011 - 15:36
+ 
+Stéphanie Vilayphiou song
+— texte affiche genese 
+Monday, 8th August 2011 - 15:36
+ 
+Stéphanie Vilayphiou shouted
+— nouveaux textes 
+Wednesday, 10th August 2011 - 10:49
+ 
+Stéphanie Vilayphiou tattled
+— gros ménage 
+Wednesday, 10th August 2011 - 11:45
+ 
+Stéphanie Vilayphiou unwraped
+— rm transparency in def logo 
+Wednesday, 10th August 2011 - 11:45
+ 
+Stéphanie Vilayphiou spilled the beans
+— ménage suite 
+Wednesday, 10th August 2011 - 11:46
+ 
+Stéphanie Vilayphiou bring out
+— gros ménage suite 
+Wednesday, 10th August 2011 - 11:59
+ 
+Stéphanie Vilayphiou said
+— premier jet affiche genèse 
+Wednesday, 10th August 2011 - 12:02
+ 
+Stéphanie Vilayphiou confessed
+— 1er jet cover genese 
+Wednesday, 10th August 2011 - 12:39
+ 
+Stéphanie Vilayphiou let on
+— nouveaux tests affiche genese 
+Thursday, 11th August 2011 - 11:55
+ 
+Stéphanie Vilayphiou interpreted
+— logos partenaires dans fichier indépendant 
+Thursday, 11th August 2011 - 11:55
+ 
+Stéphanie Vilayphiou emited
+— traces adam et eve 
+Thursday, 11th August 2011 - 11:56
+ 
+Stéphanie Vilayphiou emited
+— nouveau test cover genese 
+Thursday, 11th August 2011 - 11:57
+ 
+Stéphanie Vilayphiou tattled
+— programme genese. affiné les styles 
+Thursday, 11th August 2011 - 17:34
+ 
+Stéphanie Vilayphiou gave away
+— jetons par pierreh  
+Thursday, 11th August 2011 - 17:35
+ 
+Stéphanie Vilayphiou told
+— plaque de pioneer en SVG 
+Friday, 12th August 2011 - 10:10
+ 
+Stéphanie Vilayphiou song
+— schéma en petit dans l'affiche 
+Friday, 12th August 2011 - 10:18
+ 
+Stéphanie Vilayphiou claimed
+— ménage dans tracés hichem 
+Friday, 12th August 2011 - 12:11
+ 
+Stéphanie Vilayphiou let on
+— tracés hichem pour le web 
+Friday, 12th August 2011 - 12:16
+ 
+Ludivine Loiseau babbled
+— traçés Adam - Eve recadrés et affiche Viz 
+Friday, 12th August 2011 - 12:50
+ 
+Ludivine Loiseau verbalised
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 15th August 2011 - 08:01
+ 
+Ludivine Loiseau let loose
+— notes de vendredi dans to-do et prémices affiche 
+Monday, 15th August 2011 - 08:14
+ 
+Ludivine Loiseau cried
+— démarrage en désordre 
+Monday, 15th August 2011 - 10:22
+ 
+Stéphanie Vilayphiou blabed
+— recadrages photo genese 
+Monday, 15th August 2011 - 14:26
+ 
+Stéphanie Vilayphiou babbled out
+— traces genese recadrées 
+Monday, 15th August 2011 - 14:32
+ 
+Stéphanie Vilayphiou claimed
+— spot color 
+Monday, 15th August 2011 - 14:32
+ 
+Stéphanie Vilayphiou bring out
+— tracés genèse web 
+Monday, 15th August 2011 - 14:39
+ 
+Stéphanie Vilayphiou complained
+— guide papeterie poste 
+Monday, 15th August 2011 - 16:29
+ 
+Edu expressed
+— added c4,c6 devoloppes 
+Monday, 15th August 2011 - 16:51
+ 
+Edu talked
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 15th August 2011 - 17:02
+ 
+Ludivine Loiseau whispered
+— poster bang et jetons suite 
+Monday, 15th August 2011 - 17:05
+ 
+Edu whistled
+— modified enveloppes 
+Tuesday, 16th August 2011 - 11:20
+ 
+Edu emited
+— modified enveloppes 
+Tuesday, 16th August 2011 - 11:23
+ 
+Edu let the cat out of the bag
+— added on us enveloppe new tests 
+Tuesday, 16th August 2011 - 14:52
+ 
+Edu divulged
+— added on us enveloppe new tests 
+Tuesday, 16th August 2011 - 15:34
+ 
+Michael Murtaugh whistled
+— definied us envolope 
+Tuesday, 16th August 2011 - 16:31
+ 
+Ludivine Loiseau confessed
+— poster avant finissage et jetons pour commande 
+Tuesday, 16th August 2011 - 17:57
+ 
+Ludivine Loiseau told
+— genèse urbaine 
+Tuesday, 16th August 2011 - 23:39
+ 
+Stéphanie Vilayphiou shouted
+— update todo 
+Tuesday, 16th August 2011 - 23:58
+ 
+Stéphanie Vilayphiou confessed
+— numbers in ring font 
+Tuesday, 16th August 2011 - 23:58
+ 
+Ludivine Loiseau complained
+— affiche sur la rampe et mini correction bible des refusés 
+Wednesday, 17th August 2011 - 10:03
+ 
+Stéphanie Vilayphiou babbled
+— fr/nl 
+Wednesday, 17th August 2011 - 16:47
+ 
+Stéphanie Vilayphiou verbalised
+— merge conflict 
+Wednesday, 17th August 2011 - 16:48
+ 
+Edu exposed
+— added wall agenda 
+Thursday, 18th August 2011 - 11:03
+ 
+Edu blabed out
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 18th August 2011 - 11:05
+ 
+Edu revealed
+— modified wall agenda 
+Thursday, 18th August 2011 - 15:01
+ 
+Ludivine Loiseau whispered
+— jetons ok - affiche def - txt mur 
+Friday, 19th August 2011 - 11:21
+ 
+Stéphanie Vilayphiou uttered
+— todo 
+Friday, 19th August 2011 - 11:22
+ 
+Stéphanie Vilayphiou song
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 19th August 2011 - 12:42
+ 
+Ludivine Loiseau let on
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 19th August 2011 - 12:44
+ 
+Stéphanie Vilayphiou let on
+— mv wall 
+Friday, 19th August 2011 - 12:48
+ 
+Ludivine Loiseau tweeted
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 19th August 2011 - 13:45
+ 
+Ludivine Loiseau published
+— start carte infos 
+Friday, 19th August 2011 - 13:46
+ 
+Stéphanie Vilayphiou revealed
+— todo 
+Friday, 19th August 2011 - 17:43
+ 
+Stéphanie Vilayphiou argued
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 19th August 2011 - 17:43
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— titres courants 
+Friday, 19th August 2011 - 19:03
+ 
+Stéphanie Vilayphiou said
+— titres courants 
+Friday, 19th August 2011 - 19:04
+ 
+Stéphanie Vilayphiou tattled
+— titres courants 
+Saturday, 20th August 2011 - 13:46
+ 
+Stéphanie Vilayphiou verbalised
+— fix some glyphs in fonts 
+Saturday, 20th August 2011 - 13:46
+ 
+Stéphanie Vilayphiou whispered
+— retrack fonts 
+Sunday, 21st August 2011 - 12:24
+ 
+Ludivine Loiseau divulged
+— Pioneer en éclaté vers jours 
+Monday, 22nd August 2011 - 16:03
+ 
+Ludivine Loiseau spoke
+— bangbug 
+Monday, 22nd August 2011 - 17:15
+ 
+Stéphanie Vilayphiou whispered
+— changements divers... 
+Monday, 22nd August 2011 - 17:45
+ 
+Stéphanie Vilayphiou told
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 22nd August 2011 - 17:45
+ 
+Stéphanie Vilayphiou discovered
+— todo 
+Tuesday, 23rd August 2011 - 00:08
+ 
+Stéphanie Vilayphiou talked
+— todo 
+Wednesday, 24th August 2011 - 21:36
+ 
+Pierre Huyghebaertsong
+— les zip compressés et encryptés 
+Thursday, 25th August 2011 - 02:37
+ 
+Pierre Huyghebaertblabed out
+— cleanage 
+Thursday, 25th August 2011 - 03:06
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— todo 
+Thursday, 25th August 2011 - 06:50
+ 
+Stéphanie Vilayphiou babbled
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 25th August 2011 - 06:52
+ 
+Ludivine Loiseau peached
+— suite programme, pages infos 
+Friday, 26th August 2011 - 11:16
+ 
+Ludivine Loiseau told
+— merge conflict 
+Friday, 26th August 2011 - 13:05
+ 
+Stéphanie Vilayphiou tattled
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Friday, 26th August 2011 - 13:06
+ 
+Stéphanie Vilayphiou divulged
+— césures fr et nl 
+Friday, 26th August 2011 - 22:35
+ 
+Stéphanie Vilayphiou claimed
+— césures fr et nl 
+Friday, 26th August 2011 - 22:38
+ 
+Stéphanie Vilayphiou talked
+— rm conflit dans todo 
+Friday, 26th August 2011 - 22:44
+ 
+Stéphanie Vilayphiou tweeted
+— newsletter 1 
+Friday, 26th August 2011 - 22:58
+ 
+Stéphanie Vilayphiou spilled the beans
+— petit logo pour web 
+Friday, 26th August 2011 - 22:58
+ 
+Stéphanie Vilayphiou discovered
+— preview jeton balsa 
+Friday, 26th August 2011 - 22:58
+ 
+Stéphanie Vilayphiou argued
+— graphviz bibles genèse 
+Friday, 26th August 2011 - 22:59
+ 
+Stéphanie Vilayphiou told
+— bug podofo genèse 
+Friday, 26th August 2011 - 22:59
+ 
+Stéphanie Vilayphiou let on
+— rm vieux recadrages, track nvx recadrages 
+Friday, 26th August 2011 - 23:01
+ 
+Stéphanie Vilayphiou said
+— svg avec tous les recadrages 
+Friday, 26th August 2011 - 23:01
+ 
+Ludivine Loiseau let loose
+— praktische pages and A6 infos 
+Saturday, 27th August 2011 - 15:59
+ 
+Ludivine Loiseau verbalised
+— cover genèse et infos suite 
+Sunday, 28th August 2011 - 14:05
+ 
+Ludivine Loiseau argued
+— lettrage façade et bâche buffet 
+Sunday, 28th August 2011 - 20:13
+ 
+Ludivine Loiseau rendered
+— genese contextée en A6 oblon 2 colonnes- pan 
+Tuesday, 30th August 2011 - 02:06
+ 
+Ludivine Loiseau peached
+— cover quite ready - arf ce redimensionnement GraphViz neato mgrrr 
+Tuesday, 30th August 2011 - 11:55
+ 
+Ludivine Loiseau tweeted
+— programme Genèse sur la rampe 
+Tuesday, 30th August 2011 - 19:11
+ 
+Stéphanie Vilayphiou spoke
+— newsletter genese 
+Tuesday, 6th September 2011 - 19:34
+ 
+Stéphanie Vilayphiou uttered
+— réservations en ligne 
+Tuesday, 6th September 2011 - 19:35
+ 
+Stéphanie Vilayphiou expressed
+— osp graphviz redimensionné pour le web 
+Tuesday, 6th September 2011 - 19:35
+ 
+Stéphanie Vilayphiou emited
+— photo genese format large pour le web 
+Tuesday, 6th September 2011 - 19:36
+ 
+Stéphanie Vilayphiou uttered
+— todo mis à jour 
+Tuesday, 6th September 2011 - 19:36
+ 
+Ludivine Loiseau uttered
+— start poster génériques 
+Wednesday, 7th September 2011 - 13:38
+ 
+Stéphanie Vilayphiou exposed
+— newsletter genese correction 
+Wednesday, 7th September 2011 - 16:05
+ 
+Stéphanie Vilayphiou song
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 7th September 2011 - 16:05
+ 
+Stéphanie Vilayphiou let on
+— add arcas flyer materials 
+Thursday, 8th September 2011 - 15:53
+ 
+Stéphanie Vilayphiou said
+— add arcas flyer materials bis 
+Thursday, 8th September 2011 - 15:54
+ 
+Stéphanie Vilayphiou revealed
+— test poster 
+Friday, 9th September 2011 - 16:06
+ 
+Gijs de Heij bring out
+— First proposal scheme poster 
+Friday, 9th September 2011 - 16:19
+ 
+Gijs de Heij confessed
+— Merge branch 'master' of constantvzw.org:balsamine 
+Friday, 9th September 2011 - 16:20
+ 
+Gijs de Heij babbled
+— second proposal structure poster 
+Friday, 9th September 2011 - 21:51
+ 
+Ludivine Loiseau argued
+— posters série fleur de sel 
+Saturday, 10th September 2011 - 19:37
+ 
+Stéphanie Vilayphiou let on
+— pong flyer arcas 
+Sunday, 11th September 2011 - 01:31
+ 
+Stéphanie Vilayphiou cried
+— correction newsletter genese 
+Sunday, 11th September 2011 - 01:31
+ 
+Stéphanie Vilayphiou emited
+— flyer arcas A6 
+Sunday, 11th September 2011 - 22:35
+ 
+Gijs de Heij babbled
+— Added some poster proposals 
+Monday, 12th September 2011 - 12:45
+ 
+Ludivine Loiseau told
+— txt flyers 
+Monday, 12th September 2011 - 18:09
+ 
+Ludivine Loiseau let on
+— ajout images poster relink 
+Tuesday, 13th September 2011 - 10:23
+ 
+Stéphanie Vilayphiou emited
+— flyers 
+Tuesday, 13th September 2011 - 15:28
+ 
+Stéphanie Vilayphiou disclosed
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 13th September 2011 - 15:28
+ 
+Ludivine Loiseau exposed
+— posters go 
+Tuesday, 13th September 2011 - 13:30
+ 
+Ludivine Loiseau ironized
+— posters saison suite 
+Tuesday, 13th September 2011 - 18:00
+ 
+Ludivine Loiseau peached
+— affiches go et WBTD new 
+Thursday, 15th September 2011 - 15:17
+ 
+Stéphanie Vilayphiou spilled the beans
+— rm old versions of flyers 
+Friday, 16th September 2011 - 01:10
+ 
+Stéphanie Vilayphiou discovered
+— flyers prets pour l'impression 
+Friday, 16th September 2011 - 01:27
+ 
+Stéphanie Vilayphiou verbalized
+— séparé blocs pour newsletters dynamiques 
+Friday, 30th September 2011 - 11:17
+ 
+Stéphanie Vilayphiou peached
+— nouveau logo wbtd source 
+Friday, 30th September 2011 - 11:18
+ 
+Alexandre Leray divulged
+— mis à jour la todo 
+Monday, 3rd October 2011 - 15:50
+ 
+Alexandre Leray said
+— mis à jour la todo 
+Monday, 3rd October 2011 - 17:31
+ 
+Stéphanie Vilayphiou spilled the beans
+— update todo 
+Tuesday, 11th October 2011 - 16:53
+ 
+Stéphanie Vilayphiou whistled
+— update todo 
+Tuesday, 11th October 2011 - 16:54
+ 
+Stéphanie Vilayphiou divulged
+— update todo 
+Friday, 25th November 2011 - 14:46
+ 
+Ludivine Loiseau expressed
+— badges et cachets - start 
+Sunday, 27th November 2011 - 10:41
+ 
+Stéphanie Vilayphiou peached
+— update todo 
+Wednesday, 30th November 2011 - 11:11
+ 
+Stéphanie Vilayphiou said
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Wednesday, 30th November 2011 - 11:11
+ 
+Stéphanie Vilayphiou exposed
+— todo liste après meeting sans ludi 
+Wednesday, 7th December 2011 - 12:19
+ 
+Stéphanie Vilayphiou babbled out
+— todo newsletter 
+Wednesday, 7th December 2011 - 12:29
+ 
+Ludivine Loiseau let on
+— tangram stamp et badges 
+Saturday, 10th December 2011 - 18:53
+ 
+Ludivine Loiseau exposed
+— ajout du pack-com 
+Monday, 19th December 2011 - 15:16
+ 
+Ludivine Loiseau complained
+— update pack com 
+Wednesday, 21st December 2011 - 12:53
+ 
+Ludivine Loiseau whistled
+— cdv suite 
+Thursday, 5th January 2012 - 17:46
+ 
+Ludivine Loiseau complained
+— iceberg en route 
+Thursday, 5th January 2012 - 17:54
+ 
+Ludivine Loiseau bring out
+— test index.mkd 
+Thursday, 5th January 2012 - 18:13
+ 
+Ludivine Loiseau gave away
+— readme test 
+Thursday, 5th January 2012 - 19:18
+ 
+Stéphanie Vilayphiou said
+— todo 
+Tuesday, 10th January 2012 - 23:52
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 10th January 2012 - 23:52
+ 
+Stéphanie Vilayphiou tattled
+— add genese poster and wiki in iceberg 
+Wednesday, 11th January 2012 - 00:04
+ 
+Stéphanie Vilayphiou verbalised
+— try to fix image caption in iceberg 
+Wednesday, 11th January 2012 - 00:06
+ 
+Stéphanie Vilayphiou said
+— try to fix image caption in iceberg 
+Wednesday, 11th January 2012 - 00:12
+ 
+Stéphanie Vilayphiou verbalized
+— fixed captions in iceberg 
+Wednesday, 11th January 2012 - 00:27
+ 
+Stéphanie Vilayphiou confessed
+— ménage d'hiver de la todo 
+Wednesday, 11th January 2012 - 10:04
+ 
+Ludivine Loiseau emited
+— planches badges et cdv suite 
+Wednesday, 11th January 2012 - 10:41
+ 
+Stéphanie Vilayphiou let out
+— notes réunion fanzine 
+Wednesday, 11th January 2012 - 19:07
+ 
+Stéphanie Vilayphiou claimed
+— docs pour flyers banquet et noeuds 
+Wednesday, 11th January 2012 - 19:07
+ 
+Stéphanie Vilayphiou let on
+— préparation des flyers Noeuds, le Banquet dans les bois et Hako Onna 
+Wednesday, 11th January 2012 - 20:43
+ 
+Stéphanie Vilayphiou let on
+— correction production + nvo logo pour le banquet 
+Thursday, 12th January 2012 - 13:12
+ 
+Ludivine Loiseau peached
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 19th January 2012 - 10:43
+ 
+Ludivine Loiseau blabed
+— cdv print 
+Thursday, 19th January 2012 - 11:02
+ 
+Ludivine Loiseau cried
+— rm big pict 
+Thursday, 19th January 2012 - 11:07
+ 
+Ludivine Loiseau verbalized
+— flyers serie 2 
+Friday, 20th January 2012 - 13:43
+ 
+Ludivine Loiseau talked
+— start fanzine 
+Friday, 20th January 2012 - 15:59
+ 
+Stéphanie Vilayphiou confessed
+— tableau de départ rempli par la balsa 
+Thursday, 2nd February 2012 - 12:10
+ 
+Stéphanie Vilayphiou whistled
+— commencé à traiter les différents documents 
+Thursday, 2nd February 2012 - 12:11
+ 
+Stéphanie Vilayphiou bring out
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 2nd February 2012 - 12:16
+ 
+Stéphanie Vilayphiou verbalized
+— matos fanzine 
+Thursday, 2nd February 2012 - 12:24
+ 
+Ludivine Loiseau verbalized
+— bouclage flyer - start compression biometrique 
+Friday, 3rd February 2012 - 15:21
+ 
+Ludivine Loiseau ironized
+— start poster mi-saison et quelques pièces fanzine de vendredi 
+Saturday, 4th February 2012 - 23:03
+ 
+Stéphanie Vilayphiou shouted
+— premier test brutal fanzine 
+Saturday, 4th February 2012 - 23:49
+ 
+Stéphanie Vilayphiou exposed
+— merge 
+Saturday, 4th February 2012 - 23:52
+ 
+Ludivine Loiseau argued
+— macro changements affiche 
+Wednesday, 8th February 2012 - 01:30
+ 
+Stéphanie Vilayphiou stated
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Thursday, 9th February 2012 - 10:48
+ 
+Stéphanie Vilayphiou song
+— test affiche steph 
+Thursday, 9th February 2012 - 18:34
+ 
+Ludivine Loiseau unwraped
+— logo new 
+Thursday, 9th February 2012 - 22:35
+ 
+Stéphanie Vilayphiou gave away
+— affiche mi-saison prête pour impression 
+Friday, 10th February 2012 - 01:34
+ 
+Stéphanie Vilayphiou argued
+— mis txt biométrique avec tableaux. remis feuilles de styles de cellules comme le doc général 
+Friday, 10th February 2012 - 16:30
+ 
+Stéphanie Vilayphiou tattled
+— fanzine: nouvelles images, un peu de correction 
+Saturday, 11th February 2012 - 16:37
+ 
+Ludivine Loiseau rendered
+— fods again 
+Monday, 13th February 2012 - 10:05
+ 
+Stéphanie Vilayphiou argued
+— bougé logos haute-def dans sous-folder pour avoir un folder basse-def 
+Monday, 13th February 2012 - 15:49
+ 
+Stéphanie Vilayphiou talked
+— logos partenaires en couleur 
+Monday, 13th February 2012 - 15:49
+ 
+Stéphanie Vilayphiou verbalized
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Monday, 13th February 2012 - 15:55
+ 
+Stéphanie Vilayphiou revealed
+— ré-exporter logos basse def en png 
+Monday, 13th February 2012 - 17:04
+ 
+Stéphanie Vilayphiou published
+— petits logos partenaires pour newsletter 
+Tuesday, 14th February 2012 - 11:38
+ 
+Stéphanie Vilayphiou talked
+— newsletter pour version dynamique 
+Tuesday, 14th February 2012 - 12:49
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— image vinci 
+Tuesday, 14th February 2012 - 14:59
+ 
+Stéphanie Vilayphiou said
+— tableau avec nvx éléments de la balsa 
+Tuesday, 14th February 2012 - 17:10
+ 
+Stéphanie Vilayphiou peached
+— importé nouvelles images dans ods 
+Tuesday, 14th February 2012 - 17:26
+ 
+Ludivine Loiseau talked
+— en roue libre dans ces tests fontes 
+Thursday, 16th February 2012 - 16:13
+ 
+Ludivine Loiseau verbalised
+— first test tableau 
+Tuesday, 28th February 2012 - 12:25
+ 
+Ludivine Loiseau peached
+— filets back 
+Tuesday, 28th February 2012 - 15:00
+ 
+Stéphanie Vilayphiou said
+— tableau mis à jour par la balsa -> n°2 
+Tuesday, 28th February 2012 - 14:50
+ 
+Stéphanie Vilayphiou let out
+— re 
+Tuesday, 28th February 2012 - 15:00
+ 
+Stéphanie Vilayphiou blabed out
+— fontes ok + bordures partout 
+Tuesday, 28th February 2012 - 15:11
+ 
+Ludivine Loiseau said
+— print tableau 
+Tuesday, 28th February 2012 - 15:51
+ 
+Stéphanie Vilayphiou blabed
+— compactage steph 
+Tuesday, 28th February 2012 - 18:58
+ 
+Ludivine Loiseau revealed
+— premier compactage ok 
+Tuesday, 28th February 2012 - 19:12
+ 
+Stéphanie Vilayphiou cried
+— Merge branch 'master' of git.constantvzw.org:balsamine 
+Tuesday, 28th February 2012 - 18:58
+ 
+Stéphanie Vilayphiou let the cat out of the bag
+— compactage, cette fois ça va rentrer ! reste plus qu'à merger avec turine et noeuds de ludi 
+Tuesday, 28th February 2012 - 23:23
+ 
+Stéphanie Vilayphiou published
+— merge feuilles ludi et steph 
+Thursday, 1st March 2012 - 11:27
+ 
+Ludivine Loiseau rendered
+— crop 
+Thursday, 1st March 2012 - 14:49
+ 
+Stéphanie Vilayphiou rendered
+— re-tableau à 100%, cette fois ça y est. il ne faut pas bouger les sauts de page à la main, car c'est ça qui change l'échelle d'impression 
+Thursday, 1st March 2012 - 18:11
+ 
+Stéphanie Vilayphiou blabed
+— ? 
+Thursday, 1st March 2012 - 18:11
+ 
+Ludivine Loiseau talked
+— back to helvetie 
+Thursday, 1st March 2012 - 18:40
+ 
+Ludivine Loiseau talked
+— effacement du 3 general 
+Thursday, 1st March 2012 - 18:48
+ 
+Stéphanie Vilayphiou said
+— espace fine insécables dans fontes fanzine 
+Friday, 2nd March 2012 - 14:52
+ 
+Stéphanie Vilayphiou gave away
+— tableau steph: salon des refusés + style coupons + style résolutions + espaces fines dans coupons et résolutions 
+Friday, 2nd March 2012 - 15:03
+ 
+Stéphanie Vilayphiou verbalized
+— steph: autoportants et début moutons 
+Friday, 2nd March 2012 - 21:39
+ 
+Stéphanie Vilayphiou let on
+— modifs steph 
+Saturday, 3rd March 2012 - 23:05
+ 
+Stéphanie Vilayphiou spoke
+— fromage qui pue 
+Sunday, 4th March 2012 - 01:08
+ 
+Stéphanie Vilayphiou published
+— test différentes trames de camembert 
+Sunday, 4th March 2012 - 01:12
+ 
+Ludivine Loiseau tweeted
+— suppression du tilde dans l'espace insécable Ume-verticale-fanzine - photocopies images - portraits small nb - Trilogie ok 
+Sunday, 4th March 2012 - 11:36
+ 
+Stéphanie Vilayphiou verbalised
+— modifs steph: salon des refusés, trilogie + recalé les blocs textes avec l'aperçu 
+Sunday, 4th March 2012 - 14:58
+ 
+Stéphanie Vilayphiou verbalised
+— images salon des refusés, noir et blanc, 300dpi, 3cm de large 
+Sunday, 4th March 2012 - 15:11
+ 
+Ludivine Loiseau song
+— 24 
+Monday, 5th March 2012 - 02:42
+ 
+Ludivine Loiseau shouted
+— yapla 
+Wednesday, 7th March 2012 - 12:48
+ 
+Stéphanie Vilayphiou said
+— biométrie tableaux des moyennes 
+Thursday, 8th March 2012 - 01:23
+ 
+Stéphanie Vilayphiou ironized
+— iceberg 
+Wednesday, 6th June 2012 - 15:18
+ 
+Stéphanie Vilayphiou complained
+— du ménage dans le git pour archive 
+Sunday, 10th June 2012 - 10:42
