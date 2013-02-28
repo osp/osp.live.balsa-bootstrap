@@ -1,0 +1,16 @@
+triangle
+
+forward 2
+right 50
+forward 2
+left 90 
+pen down
+forward 8
+left 90
+forward 6
+left 90
+forward 6
+pen up
+home
+
+

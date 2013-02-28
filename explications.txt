@@ -1,0 +1,14 @@
+Turtle
+- - -
+Turtle graphic est une méthode de programmation graphique vectoriel
+
+
+
+Graphviz
+- - - 
+Graphviz est un logiciel de visualisation graphique. La visualisation graphique permet de représenter de l'information structurée sous forme de diagrames de schémas abstraits et de réseaux.
+Il trouve une application dans la représentation de réseaux en bio informatique, génie logiciel, pour par exemple visualiser des bases de données, dans la conception de sites web. Donc principalement dans des domaines techniques.
+
+Le programme décrit des graphiques dans un simple format (langage) texte et produit des graphiques au format image ou svg (vectoriel).
+
+Graphviz dispose d'un certain nombre de fonctionalités qui permettent d'ajuster les couleurs, la typographie, les liaisons et formes de noeuds. 
