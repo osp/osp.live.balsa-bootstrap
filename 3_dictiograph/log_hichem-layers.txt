@@ -1,0 +1,290 @@
+ 
+
+
+
+Stéphanie Vilayphioulet the cat out of the bag
+
+— les vignettes dans les marges!
+
+Tuesday, 7th June 2011 - 17:25
+ 
+
+Ludivine Loiseautattled
+
+— psd pour test script
+
+Tuesday, 7th June 2011 - 17:28
+ 
+
+Ludivine Loiseauverbalised
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Tuesday, 7th June 2011 - 17:29
+ 
+
+Ludivine Loiseaugave away
+
+— psd vers script
+
+Tuesday, 7th June 2011 - 17:34
+ 
+
+Stéphanie Vilayphiouspoke
+
+— réglages césures. add howto PSD to SVG dans readme
+
+Tuesday, 7th June 2011 - 18:40
+ 
+
+Stéphanie Vilayphiouuttered
+
+— ajouté une espace manquante
+
+Tuesday, 7th June 2011 - 18:44
+ 
+
+Ludivine Loiseautweeted
+
+— les euros dans la Gothic et la Ring
+
+Tuesday, 7th June 2011 - 20:12
+ 
+
+Stéphanie Vilayphioubring out
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Tuesday, 7th June 2011 - 21:49
+ 
+
+Stéphanie Vilayphiouwhispered
+
+— gimp plugin to transform layers to svg
+
+Wednesday, 8th June 2011 - 02:05
+ 
+
+Stéphanie Vilayphioulet out
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Wednesday, 8th June 2011 - 10:56
+ 
+
+Ludivine Loiseaulet the cat out of the bag
+
+— logo suite
+
+Wednesday, 8th June 2011 - 11:17
+ 
+
+Stéphanie Vilayphiourendered
+
+— changé les chemins dans plugin gimp
+
+Wednesday, 8th June 2011 - 11:26
+ 
+
+Stéphanie Vilayphiourendered
+
+— déplacé readme à la racine
+
+Wednesday, 8th June 2011 - 11:26
+ 
+
+Stéphanie Vilayphiougave away
+
+— changé chemin + copyright dans plugin
+
+Wednesday, 8th June 2011 - 11:49
+
+
+Stéphanie Vilayphioutattled
+
+— instructions pour utiliser le plugin gimp
+
+Wednesday, 8th June 2011 - 11:49
+ 
+
+Stéphanie Vilayphiouironized
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Wednesday, 8th June 2011 - 11:56
+ 
+
+Ludivine Loiseauexposed
+
+— logo brico
+
+Wednesday, 8th June 2011 - 12:25
+ 
+
+Stéphanie Vilayphiousong
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Wednesday, 8th June 2011 - 15:40
+ 
+
+Stéphanie Vilayphioublabed out
+
+— euros à la place de €
+
+Wednesday, 8th June 2011 - 19:18
+ 
+
+Stéphanie Vilayphioublabed out
+
+— nouveaux logos
+
+Wednesday, 8th June 2011 - 19:18
+ 
+
+Stéphanie Vilayphioudiscovered
+
+— agenda!
+
+Thursday, 9th June 2011 - 00:21
+ 
+
+Ludivine Loiseaugave away
+
+— poster suite et logo en morceaux
+
+Thursday, 9th June 2011 - 00:33
+ 
+
+Ludivine Loiseautalked
+
+— reprise logo - test labyrinthe 
+
+Thursday, 9th June 2011 - 09:07
+ 
+
+Ludivine Loiseauspoke
+
+— logo passage relais to Pierre
+
+Thursday, 9th June 2011 - 14:03
+ 
+
+Ludivine Loiseautold
+
+— tracés en eps
+
+Thursday, 9th June 2011 - 14:31
+ 
+
+Stéphanie Vilayphiousaid
+
+— infos en marge. retouches taille. retouche agenda
+
+Thursday, 9th June 2011 - 14:36
+ 
+
+Stéphanie Vilayphiouwhispered
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 9th June 2011 - 14:36
+ 
+
+Stéphanie Vilayphiouargued
+
+— svg -> png
+
+Thursday, 9th June 2011 - 14:53
+ 
+
+Ludivine Loiseauuttered
+
+— trqc2s png
+
+Thursday, 9th June 2011 - 14:53
+ 
+
+Stéphanie Vilayphiousaid
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 9th June 2011 - 14:54
+ 
+
+Ludivine Loiseaubabbled
+
+— go
+
+Thursday, 9th June 2011 - 15:08
+ 
+
+Stéphanie Vilayphioubabbled
+
+— vignettes
+
+Thursday, 9th June 2011 - 15:08
+ 
+
+Stéphanie Vilayphioutold
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 9th June 2011 - 15:09
+ 
+
+Ludivine Loiseauverbalized
+
+— svg eps png
+
+Friday, 10th June 2011 - 01:20
+ 
+
+Stéphanie Vilayphioutalked
+
+— corrections + reste vignette
+
+Friday, 10th June 2011 - 01:30
+ 
+
+Stéphanie Vilayphiouverbalised
+
+— pb image sur odile
+
+Friday, 10th June 2011 - 01:40
+ 
+
+Stéphanie Vilayphioubring out
+
+— update todo
+
+Friday, 10th June 2011 - 11:38
+ 
+
+Ludivine Loiseauspilled the beans
+
+— derniers psd, svg Hichem, mise à jour To Do et fichier corrections Word
+
+Friday, 10th June 2011 - 20:41
+ 
+
+Ludivine Loiseauexposed
+
+— corrections en cours et probleme de génération du pdf
+
+Saturday, 11th June 2011 - 12:42
+ 
+
+Ludivine Loiseauwhispered
+
+— corrections quasi ok
+
+Saturday, 11th June 2011 - 16:09
+ 
+
+Ludivine Loiseaubabbled out
+
+— spiro de cheveux grecs
+
+Saturday, 11th June 2011 - 21:03
+
