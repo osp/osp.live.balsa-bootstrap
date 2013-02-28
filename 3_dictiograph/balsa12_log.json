@@ -1,0 +1,1782 @@
+var git_log = {"09bdd4c": {
+  "commit": "09bdd4ce738e1adaf265378185e42b5a9c19569b",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jan 22 23:35:12 2013 +0100",
+  "message": "now ready for launch."
+},
+"56011a3": {
+  "commit": "56011a3868474f7bca48688faa1bd6e3529b7bc1",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jan 22 22:34:49 2013 +0100",
+  "message": "on remet à la bonne taille et on sharpen un peu"
+},
+"dbc1b10": {
+  "commit": "dbc1b10f433816c571354a2bff140c611bf13ed7",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jan 22 21:09:53 2013 +0100",
+  "message": "dernières corrections sur les flyers avant la mise au net des images"
+},
+"63d3442": {
+  "commit": "63d34424856fc6d332127fd74c00f9cbe36707ed",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Jan 22 19:38:45 2013 +0100",
+  "message": "corrections txt et orfèvrerie"
+},
+"63b08c0": {
+  "commit": "63b08c0c128ba559d12a5698a97cb2976836a019",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Jan 22 18:02:37 2013 +0100",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"8b98a43": {
+  "commit": "8b98a4350e81c7b6addf28fbddc14cf398f8afda",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Jan 22 17:57:23 2013 +0100",
+  "message": "le pack3 avec nouvelles images et les salades"
+},
+"075291b": {
+  "commit": "075291b0a3b0c4e5a4b814b65db9c22047ffee84",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Jan 22 15:46:39 2013 +0100",
+  "message": "croco is back"
+},
+"3a667fa": {
+  "commit": "3a667facb5cc0c0194249408f45af3c0a34c63f5",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Jan 22 15:21:08 2013 +0100",
+  "message": "flyers pack 3 les pdf de previews"
+},
+"79b6f51": {
+  "commit": "79b6f51d6d2567f93b19819799a5c15aa3c9788f",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Jan 22 08:23:13 2013 +0100",
+  "message": "flyer boot"
+},
+"3b70b03": {
+  "commit": "3b70b032c6ad559add295bd148015ecb9cb4a44f",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Mon Jan 21 18:54:12 2013 +0100",
+  "message": "flyers suite"
+},
+"dce19eb": {
+  "commit": "dce19eba1302a8e4a678167abf6856dc7fbc38ae",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon Jan 21 15:58:31 2013 +0100",
+  "message": "bootstrap flyers bootstrap"
+},
+"f74b64c": {
+  "commit": "f74b64c6435db0fd2bbd0a68bbcaac2ad424607a",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Mon Jan 21 11:45:06 2013 +0100",
+  "message": "morning version"
+},
+"20c78ea": {
+  "commit": "20c78ea81856b5774e5c246cb3c04434aa5b6b16",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Mon Jan 21 09:43:39 2013 +0100",
+  "message": "2 bootstraps et  88 constellations darling"
+},
+"ee067d2": {
+  "commit": "ee067d26d17473c9d947489d0153b2a5605146dd",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Jan 20 15:14:45 2013 +0100",
+  "message": "visuels de geomungo à venir glisser contre le squelette d'Anne, pour voir"
+},
+"b8b42fc": {
+  "commit": "b8b42fc3c01b87b156665ed7d07b37fad0ceac5c",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Sun Jan 20 14:51:51 2013 +0100",
+  "message": "3 sunday flyers"
+},
+"76df0a4": {
+  "commit": "76df0a41bf0075773932f665df602ff123366ace",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 18:36:36 2012 +0100",
+  "message": "allez!"
+},
+"f28715e": {
+  "commit": "f28715e47bfc0d7e414f2bb9f2c1d873aa028897",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 18:27:18 2012 +0100",
+  "message": "PDF ready to fly"
+},
+"d36bf6e": {
+  "commit": "d36bf6e74f9ddf5c809cfffbb7c5d65a6d849483",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 18:27:18 2012 +0100",
+  "message": "PDF ready to fly"
+},
+"3db88e9": {
+  "commit": "3db88e9b99e9df242fbb31c3ea30d75ac4524f50",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Thu Dec 6 15:58:30 2012 +0100",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"0237623": {
+  "commit": "0237623185b05b7b8382abfafa007adb35208eac",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 16:17:50 2012 +0100",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"4df3e55": {
+  "commit": "4df3e55fbd6d279a3346eae80213a7be5cf37d7f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 16:15:32 2012 +0100",
+  "message": "le verso propret"
+},
+"23d0d16": {
+  "commit": "23d0d16ba695266ac24538ed5c3d22e298c6291c",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Thu Dec 6 15:54:22 2012 +0100",
+  "message": "danse to the print"
+},
+"e6e380b": {
+  "commit": "e6e380b3198d6f5109b3722eefe9dcf09232fe4d",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Thu Dec 6 15:50:53 2012 +0100",
+  "message": "metapost en pas de danse galactiques"
+},
+"ab2505c": {
+  "commit": "ab2505c0c01fab96e14e41bcbe6c6a205d6a4be8",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 15:37:03 2012 +0100",
+  "message": "et on évite le 1"
+},
+"b285ce9": {
+  "commit": "b285ce9c58935d8749c28ba300fe1c759c4ec32b",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 13:06:04 2012 +0100",
+  "message": "syvestre verso 2"
+},
+"b611a60": {
+  "commit": "b611a60d8993d6bb914edf032e57e99be38b2de7",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Thu Dec 6 12:33:55 2012 +0100",
+  "message": "syvestre 2 et 3"
+},
+"3ec93e0": {
+  "commit": "3ec93e0a36970369c4892b22c32c4425cb1c281e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 11:41:30 2012 +0100",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"197f205": {
+  "commit": "197f205fd6680290dca126e5162d534ce2db6ec8",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 11:35:34 2012 +0100",
+  "message": "3, 2, 1, 0 --> metapost"
+},
+"732227d": {
+  "commit": "732227d5c88108b50c029709f6ecb2e30c1b98fc",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Dec 6 11:35:34 2012 +0100",
+  "message": "3, 2, 1, 0 --> metapost"
+},
+"8aadcec": {
+  "commit": "8aadcec95b0db1716df02601238a84a284d2e00b",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Dec 5 14:56:37 2012 +0100",
+  "message": "on range un peu le brol des dossiers et on ajoute une pincée de metapost"
+},
+"a9370d9": {
+  "commit": "a9370d958594c6b0b6128f17c2180ecbae9e67d9",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Dec 4 23:08:32 2012 +0100",
+  "message": "et un verso, un!"
+},
+"044a252": {
+  "commit": "044a252486aa47da4cc753d017797ad72ed68d4b",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Dec 4 20:25:38 2012 +0100",
+  "message": "x2 x0 x1 x3"
+},
+"2c9b133": {
+  "commit": "2c9b1331867117b56daa4d3731f8645786370132",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Nov 8 16:20:00 2012 +0100",
+  "message": "todotodo"
+},
+"d6ef367": {
+  "commit": "d6ef3676cd49253dc12989898c02a1b3c9f8637f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Nov 8 14:09:45 2012 +0100",
+  "message": "balsa budget updated"
+},
+"6c268a3": {
+  "commit": "6c268a39577fef0c11cd262eadcb07aaf7a5021c",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Nov 8 14:09:31 2012 +0100",
+  "message": "update todo"
+},
+"2d330b8": {
+  "commit": "2d330b8c7984a658d2204c7004728131107ce1ce",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Nov 8 11:40:10 2012 +0100",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"916797b": {
+  "commit": "916797bae7b8d70d484afc4c328505b7fe6ce6a3",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Oct 30 15:31:11 2012 +0100",
+  "message": "mise à l'échelle avec deux antiques eps"
+},
+"bab508b": {
+  "commit": "bab508bb309a2a14f8af95e11a6fcd52028c9024",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Oct 30 14:51:40 2012 +0100",
+  "message": "boost pict et generation pdf avec profil"
+},
+"1d089b4": {
+  "commit": "1d089b499c02bf9c4160224cbe58ce484ca117d4",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Oct 30 09:28:57 2012 +0100",
+  "message": "sans invasion exclamation point"
+},
+"02a9419": {
+  "commit": "02a9419004f336eadf3962d860d86f85293ef361",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Oct 30 09:14:09 2012 +0100",
+  "message": "modifications des affiches suite au coup de téléphone avec Delphine, un essai de composition"
+},
+"3cb8354": {
+  "commit": "3cb8354f3e3ea06da3a10cf45656b7bd06099579",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sat Oct 27 15:24:37 2012 +0200",
+  "message": "correction pdf dépassants et fond perdu"
+},
+"66270a0": {
+  "commit": "66270a0577ad3d09779d0229fa5dc280fde6a850",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sat Oct 27 13:30:49 2012 +0200",
+  "message": "2 affiches avec équlibrage et composition"
+},
+"1af2af6": {
+  "commit": "1af2af691aff391536e79c1d8a2863b9aaca9b39",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Oct 24 23:27:57 2012 +0200",
+  "message": "start posters Enfant 0 and  Vision - How to find the good degree of inclinaison"
+},
+"8568528": {
+  "commit": "85685284987346c8625e3b210a8a13b905ab543a",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Oct 24 22:49:39 2012 +0200",
+  "message": "stylished"
+},
+"c0540fa": {
+  "commit": "c0540fa6d7bf6b0604bb92f6c437dea2816fd9cb",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Oct 24 22:10:27 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"100decb": {
+  "commit": "100decb9eefafb184c59d3a9aef6825c1d62aa6a",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Oct 24 22:09:51 2012 +0200",
+  "message": "base Sribus stylée pour la série de posters de saison"
+},
+"122191f": {
+  "commit": "122191fd8fcdd5062aab49cf755073ca4ae10a85",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Wed Oct 24 22:03:58 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"9e756de": {
+  "commit": "9e756defe26a03795b1e89b14999e90ff795f1cf",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Wed Oct 24 22:00:43 2012 +0200",
+  "message": "un nettoyage de fond de cuve avant de redémarrer sur les affiches"
+},
+"4da8a2f": {
+  "commit": "4da8a2f5fd567c181d45cc0c307b92d70e2928bf",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Oct 16 12:09:35 2012 +0200",
+  "message": "PP in C5 enveloppe"
+},
+"5059185": {
+  "commit": "50591859470ec5233b5ca31d414283bba07af8df",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Oct 10 19:09:13 2012 +0200",
+  "message": "final corrections and preppy for printing"
+},
+"cfdc059": {
+  "commit": "cfdc0591e5c336e96ba516567b407a977b73863c",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Oct 10 16:56:58 2012 +0200",
+  "message": "corrections avec Delphine au bout du fil"
+},
+"292b7e7": {
+  "commit": "292b7e7665a072f7533bd56e37980281fa52c446",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Oct 10 00:20:24 2012 +0200",
+  "message": "round up bootstraps. schematize bootstraps. compactize."
+},
+"1eecbd1": {
+  "commit": "1eecbd18631b676c5cccb7a141624b388c70fb8c",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Oct 9 22:42:30 2012 +0200",
+  "message": "logo médiathèque et micro déplacement de blocs"
+},
+"8bb1fa9": {
+  "commit": "8bb1fa94e537e24003101065d1599b67676eccfc",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Oct 9 21:41:54 2012 +0200",
+  "message": "corrections flyers, à toi de jouer ludi"
+},
+"7b85ee6": {
+  "commit": "7b85ee60f4f2a969b90291c1dd9913214804c435",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Oct 9 13:54:39 2012 +0200",
+  "message": "2e salve de facture"
+},
+"3f4c7db": {
+  "commit": "3f4c7db908ef297a84cd7648d2dbb6ae7b9a40a0",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Oct 5 18:58:14 2012 +0200",
+  "message": "flyers pack2 tryout complete. waiting for instructions"
+},
+"1200857": {
+  "commit": "120085703860842ba8a897213e0432943481bc0c",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Oct 5 11:44:39 2012 +0200",
+  "message": "flyer 0 enfant"
+},
+"f69f525": {
+  "commit": "f69f525adeae954b59eda90650557c38f1e40c30",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Oct 5 11:42:24 2012 +0200",
+  "message": "petites modifs flyers vision"
+},
+"a41f905": {
+  "commit": "a41f90541ebab9b11620822b009c0109bbfb8526",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Oct 5 11:42:08 2012 +0200",
+  "message": "photo enfant zéro 300 dpi"
+},
+"6d219be": {
+  "commit": "6d219be22a34f9bbbe90b49701a9b00b0c80fe9b",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Oct 4 18:13:31 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"dfec394": {
+  "commit": "dfec394045208b6fcf650c97e3f997cd98188b19",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Oct 4 18:13:24 2012 +0200",
+  "message": "rattrapage de commit: les dernières modifs newsletters"
+},
+"be42a92": {
+  "commit": "be42a927c081d5cc00ce93292e4ea66e4a86e6ee",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Oct 4 18:13:01 2012 +0200",
+  "message": "le flyer Vision est touché/coulé"
+},
+"53b8ce4": {
+  "commit": "53b8ce4e6fd59b880ab72239f9d0ad61eee234fe",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Oct 4 18:11:59 2012 +0200",
+  "message": "mv first pack of flyers in subfolder"
+},
+"5f537a9": {
+  "commit": "5f537a9641a32485ed5f9dbf3e7e8ae151323454",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Wed Sep 26 15:36:31 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"e17428a": {
+  "commit": "e17428ab0d52baab908aed94f1ebf902a450a55f",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Wed Sep 26 15:36:12 2012 +0200",
+  "message": "quelques."
+},
+"fa3e6e7": {
+  "commit": "fa3e6e7366dbd573846b8618cb49ebcbe1b8181e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon Sep 24 23:51:00 2012 +0200",
+  "message": "timesheet steph: depuis 13 juin, 83.6 heures de boulot"
+},
+"95c1044": {
+  "commit": "95c1044290e9770e6f1823b73c292d34013020af",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Sep 12 15:16:43 2012 +0200",
+  "message": "la batterie de tests du poster ravissant et épuré"
+},
+"c337926": {
+  "commit": "c33792624538b8cee9bf90105d46bca4bbc62a68",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Sep 12 15:15:54 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"9ac72f3": {
+  "commit": "9ac72f30efe1d3db0403c1f53e07e520f4abb8a5",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Sep 12 15:15:36 2012 +0200",
+  "message": "une dernière tentative de totem..."
+},
+"f760b9b": {
+  "commit": "f760b9bff2e53d2b9199066fe219227b0f269947",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Wed Sep 12 00:15:57 2012 +0200",
+  "message": "calm down poster"
+},
+"53e777b": {
+  "commit": "53e777ba31dedb700a1e0bf155bf6fbc5d787cea",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Sep 11 23:23:48 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"fa0e8c5": {
+  "commit": "fa0e8c5d9053f6f74fbf0b038d11dc3c07c8eebe",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Sep 11 23:23:20 2012 +0200",
+  "message": "very too much mutuelle-style"
+},
+"18a5f98": {
+  "commit": "18a5f9815aff22f5a81a082332c1c5bf23b03ff1",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Sep 11 23:02:44 2012 +0200",
+  "message": "et un poster ravissant et épuré"
+},
+"0766fc6": {
+  "commit": "0766fc643d1192bcb8c42f2a0cf85789691ba564",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Sep 11 15:23:17 2012 +0200",
+  "message": "on cleane un peu cette affiche"
+},
+"9dcfef8": {
+  "commit": "9dcfef8ef0c584636b7126e31bda308768f8b62b",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Tue Sep 11 01:28:22 2012 +0200",
+  "message": "ravissement relais &"
+},
+"eb17d52": {
+  "commit": "eb17d5258422aa7c033afb5650f67dc53c818774",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Sep 7 13:52:26 2012 +0200",
+  "message": "et on nettoie tout ce brol de photos"
+},
+"4452ab3": {
+  "commit": "4452ab38d1a65f5ccfc3c8b13f7a0aa70048e2cd",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Sep 7 13:44:15 2012 +0200",
+  "message": "le profil ICC qui va résoudre tous nos problèmes de délavage de couleurs"
+},
+"3e3c37a": {
+  "commit": "3e3c37ae0800c87be196335cfa7382cb23fe0bac",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Sep 7 13:43:24 2012 +0200",
+  "message": "titanesque images"
+},
+"a964b1f": {
+  "commit": "a964b1f3e7b8bf71cb592af39ff2504e964cfcf1",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Sep 6 18:03:17 2012 +0200",
+  "message": "and a mega-poster "ravissant""
+},
+"b66dbfd": {
+  "commit": "b66dbfdfe7aa976735a6311944e637afd7b2481e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Sep 6 18:02:10 2012 +0200",
+  "message": "gabarits invitation multisupports universels"
+},
+"61bf49b": {
+  "commit": "61bf49be4517709f002df67639f1c13b3160b0d1",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Sep 2 20:07:01 2012 +0200",
+  "message": "plain text for email"
+},
+"5576e97": {
+  "commit": "5576e97bab0a21d2f84af84779d49e84a0300e2e",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Sep 2 19:51:26 2012 +0200",
+  "message": "email testing"
+},
+"a3fa578": {
+  "commit": "a3fa57844acb7768d1e21bbd58c6ceb29ed2b9a4",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Sep 2 16:56:36 2012 +0200",
+  "message": "newsletters compatibility pleasure bootstrap"
+},
+"115325d": {
+  "commit": "115325dee79a1a4f63bc0f8c90503627159bfaaf",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Sep 2 16:55:34 2012 +0200",
+  "message": "newsletters compatibility pleasures"
+},
+"0af1879": {
+  "commit": "0af187964b0541913623813f097bee2576acdcf8",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Sep 2 16:49:05 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"7691658": {
+  "commit": "76916585db3828a488fcbf624b07f5c0ff18c92e",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sat Sep 1 19:30:04 2012 +0200",
+  "message": "photos de la dernière session on-travaille-on-the-field, avec la peinture du mur entre autre"
+},
+"54bdcb3": {
+  "commit": "54bdcb3b8230866424d51e7bbf8c16f311f811d4",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 15:20:19 2012 +0200",
+  "message": "2 new logos in the newsletter logo footer"
+},
+"86777ec": {
+  "commit": "86777ec63dbb4f386980e386bfff799f4d4374e7",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 15:17:05 2012 +0200",
+  "message": "still..."
+},
+"b705863": {
+  "commit": "b7058637ffe4455d7dd6ab5f26239d3d0013d9b2",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 15:14:52 2012 +0200",
+  "message": "let's face it, the two added logos are way too small"
+},
+"0b96637": {
+  "commit": "0b96637fbb0e9f4c13ca6c1d7777a281de81ec51",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 15:10:15 2012 +0200",
+  "message": "bootstrap picture fits the web"
+},
+"681e880": {
+  "commit": "681e8807f8989a1f9c0bb53ac6707cbb76160c66",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 15:09:58 2012 +0200",
+  "message": "logos 1re + musiq3 in imports_logo and pack-com"
+},
+"2e42933": {
+  "commit": "2e42933eacf9f61380511fe7fccbee3cc8828615",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 31 13:08:56 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"ac45cb9": {
+  "commit": "ac45cb972d8b63abfa3b3bcf2c97b23726ca5158",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Mon Aug 27 17:01:49 2012 +0200",
+  "message": "corr décembre"
+},
+"81b364f": {
+  "commit": "81b364fa4a68991482f68539ad56405e034d047d",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Mon Aug 27 11:38:19 2012 +0200",
+  "message": "fontes réinstallées et export pdf de base, gestion des couleurs désactivées"
+},
+"3725f0a": {
+  "commit": "3725f0abbc657e4ce5c23e468990953b9d8696c8",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Mon Aug 27 09:14:24 2012 +0200",
+  "message": "En pdf 1.6 et sans joindre le profil aux images, plus ghostscript sur les pages en gris"
+},
+"fddf97e": {
+  "commit": "fddf97e38f4d90945d1ee04dc08a5455f1bb456a",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Mon Aug 27 08:45:52 2012 +0200",
+  "message": "Tentons de forcer la quadri pour les flyers, en activant la gestion des couleurs, passage au pdfx/3, remplacer toutes les couleurs rvb des svg vers du noir et tant qu'on y est, vectorisation de tout le texte"
+},
+"9891a6e": {
+  "commit": "9891a6e27d3a43bae7afb0f1a23aa949a88f5fd6",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Aug 26 22:51:07 2012 +0200",
+  "message": "la bâche format final"
+},
+"f8ff865": {
+  "commit": "f8ff865bbbb371cf0693d4558afa2155198273b6",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Aug 26 22:26:26 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"90648cc": {
+  "commit": "90648cce8a4679ad04e8ab500356da4725e892af",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Aug 26 22:22:47 2012 +0200",
+  "message": "le final sonne toujours deux fois"
+},
+"c990ebc": {
+  "commit": "c990ebc0961f308edd5bfbb1ff2525b403d21a03",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Sun Aug 26 22:20:33 2012 +0200",
+  "message": "wall 2"
+},
+"b35fa55": {
+  "commit": "b35fa557999599c643163cf230a317a9edc016e6",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Sun Aug 26 22:07:14 2012 +0200",
+  "message": "le final des flyers"
+},
+"e7f213c": {
+  "commit": "e7f213c401c81439dacdfca951f44dd3eb32a5df",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 24 11:59:44 2012 +0200",
+  "message": "the mandataory unsubscribe link in newsletter"
+},
+"b8ec753": {
+  "commit": "b8ec7537293a9112d83acda730db839f0b37e7e3",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 24 11:42:25 2012 +0200",
+  "message": "some more precision"
+},
+"72e4837": {
+  "commit": "72e4837f1ba8b643d5f7768dd8c7205a25cf6f83",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 24 01:22:40 2012 +0200",
+  "message": "and a flyer jeu de l'oie for the whole season"
+},
+"3fffd1d": {
+  "commit": "3fffd1d3c73a3a78e197c8599d85b4d96005c446",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Aug 24 01:21:25 2012 +0200",
+  "message": "so ok for corrections. a new try out at a layout for a clearer bootstrap"
+},
+"d98c226": {
+  "commit": "d98c226efe594b460c550bcc5f6d54f789a46348",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Thu Aug 23 17:22:33 2012 +0200",
+  "message": "bootstrap rien quelque chose"
+},
+"bbb726b": {
+  "commit": "bbb726b13a9e7e706aabd682aa3cf363bf24d34c",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Thu Aug 23 14:35:26 2012 +0200",
+  "message": "la crolle de l'année passée"
+},
+"e9d9e21": {
+  "commit": "e9d9e2133792e44f94019569fe3bea5427b6284e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Aug 23 10:50:21 2012 +0200",
+  "message": "let's calm this conflict down"
+},
+"19af579": {
+  "commit": "19af579c76ecec2c5129b6750617913c742a8133",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Aug 23 10:43:36 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"4a801fa": {
+  "commit": "4a801fa0ee9d49ba839dd740ca71fec9bfd639e6",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Aug 22 00:48:27 2012 +0200",
+  "message": "Balsa flyers 2012-13 will be composites"
+},
+"e12cbec": {
+  "commit": "e12cbec917ef609e3f28eab33d84824491a02809",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Aug 22 00:45:55 2012 +0200",
+  "message": "Balsa flyers 2012-13 will be composites"
+},
+"e601ae1": {
+  "commit": "e601ae1595e5818557f245379d8f0f1a37220168",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 17:52:59 2012 +0200",
+  "message": "corrections tarifs"
+},
+"af059de": {
+  "commit": "af059deeea41b8508960d8885f33e3d90824db88",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 16:40:02 2012 +0200",
+  "message": "let's clean this todo list"
+},
+"e1bc576": {
+  "commit": "e1bc576173d29b82405978163bbec0244a639eb3",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 16:33:23 2012 +0200",
+  "message": "prices scaled for vynil wall application"
+},
+"41d8a71": {
+  "commit": "41d8a71aff99fe5bd083880256441041c9dfd377",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 15:40:22 2012 +0200",
+  "message": "try-out to lower flyer quantities to lower printing prices"
+},
+"30957cb": {
+  "commit": "30957cb9c9e9e638084a240e51e10d8af11e835a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 15:16:03 2012 +0200",
+  "message": "et un énième gabarit pour la newsletter dynamique"
+},
+"d00314f": {
+  "commit": "d00314fdbee418cb1c39a3438938613bd6a2b746",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 14:59:47 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"8374765": {
+  "commit": "837476566587e863fcfbb7b452d824e6aa1337ab",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 14:58:59 2012 +0200",
+  "message": "pack-com 2012-2013 -> du rouge partout"
+},
+"f2f8429": {
+  "commit": "f2f84299bf3c7d2cd1d1f12285506ff39231ad63",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Aug 21 14:58:38 2012 +0200",
+  "message": "corrections mur programme"
+},
+"5c6c610": {
+  "commit": "5c6c61014d8004f19302ce307d838ed3e2623a93",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Tue Aug 21 14:10:37 2012 +0200",
+  "message": "La bache 2012-2013, basée sur l'affiche de saison"
+},
+"777da4c": {
+  "commit": "777da4c516bc342e323ccfe5ca2197ea30dc0916",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Fri Aug 17 15:56:11 2012 +0200",
+  "message": "start fly"
+},
+"c3d7f4e": {
+  "commit": "c3d7f4ed95a60f7679aa5bad568980fe6c34c801",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Fri Aug 17 14:52:27 2012 +0200",
+  "message": "mur mur"
+},
+"b10dc1c": {
+  "commit": "b10dc1cedb324def638b882ac60543b307f0d510",
+  "author": "Ludi <hello@ludi.be>",
+  "date": "Wed Aug 15 18:24:01 2012 +0200",
+  "message": "rentrée Balsa - preparing a wall version of the new season program"
+},
+"b6a0b3b": {
+  "commit": "b6a0b3b926dad1aff364aab732a45e3659bb7f75",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Thu Aug 9 18:39:52 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"c59c05c": {
+  "commit": "c59c05cf3d14992842034ecef5d303c40801f941",
+  "author": "Pierre Huyghebaert <crickxson@gmail.com>",
+  "date": "Thu Aug 9 18:39:33 2012 +0200",
+  "message": "timesheet mise à jour"
+},
+"6c48ee0": {
+  "commit": "6c48ee00d9c261cb36282f1b4420f8be9d2a2ee8",
+  "author": "Ludi <ludi.loiseau@gmail.com>",
+  "date": "Fri Jul 6 00:47:31 2012 +0200",
+  "message": "Titres saisons pour peinture muralesur les murs lettrage peinture sur le mur d'entrée Balsa - layout 1"
+},
+"1f8243d": {
+  "commit": "1f8243dcba59411a5bb0a9b80ba23ecb55fa0ecb",
+  "author": "Ludi <ludi.loiseau@gmail.com>",
+  "date": "Thu Jul 5 23:32:51 2012 +0200",
+  "message": "pict pour newsletter pré-vacances, boutons facebook illégal pour la home et zip logos pour la presse"
+},
+"5471c18": {
+  "commit": "5471c1833d4ef4714d836ff960525ffa043ee976",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Jul 2 13:51:22 2012 +0200",
+  "message": "the readme are in root of each work, not in iceberg, punaise"
+},
+"966b421": {
+  "commit": "966b421a5eeedca71a871dce2c3d15e6b3808c5f",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Jul 2 11:16:45 2012 +0200",
+  "message": "let's  describe it"
+},
+"847518c": {
+  "commit": "847518c5e9344b4b17fe42a4bdbd5f45bd5e5fb9",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Jul 2 11:15:20 2012 +0200",
+  "message": "some more info in the readme"
+},
+"d3adcfe": {
+  "commit": "d3adcfeb37659c3976a578bff1188c54b3dbc40f",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Jul 2 10:59:13 2012 +0200",
+  "message": "for a job counting hundreds of hours of work, it will be a bit better with some name on it, no?"
+},
+"5217c21": {
+  "commit": "5217c214d0cc5405cf4f8fd7d925f095451e7f00",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Jul 1 21:23:13 2012 +0200",
+  "message": "rm duplicate iceberg images"
+},
+"720e284": {
+  "commit": "720e2848544391ecdaa9c2b7974883eaad45438a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Jul 1 21:20:55 2012 +0200",
+  "message": "read me..."
+},
+"12b709e": {
+  "commit": "12b709eabf72b30186fea757168aa031db6d78d9",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Jul 1 21:19:48 2012 +0200",
+  "message": "renamed iceberg flies"
+},
+"f1f07da": {
+  "commit": "f1f07da88760d700576d1ad026435d2b3e77a8fe",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 20:07:45 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"684a6c7": {
+  "commit": "684a6c7860d75c269bc231ffc1d8dbec94ea2749",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 20:07:24 2012 +0200",
+  "message": "thumbnails des spectacles"
+},
+"c012f1f": {
+  "commit": "c012f1f4009cb14c90d5936ec6dae3951ced4ba7",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 20:07:00 2012 +0200",
+  "message": "tarifs en rouge + pass à 65euros"
+},
+"041dcf2": {
+  "commit": "041dcf212579523f4b1c42ad89714e474bc7789e",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Jun 29 18:33:45 2012 +0200",
+  "message": "bootstrap thumb"
+},
+"56765ba": {
+  "commit": "56765bab375fc0f08bebbb02fa9e7d5f97c3cd64",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Jun 29 18:11:17 2012 +0200",
+  "message": "a Balsa hom for holidays"
+},
+"787c2d8": {
+  "commit": "787c2d8518d655bc812d88f53df7d0b63b2bd873",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Jun 29 18:06:21 2012 +0200",
+  "message": "private network buttons attack"
+},
+"a463550": {
+  "commit": "a46355038b029216c66f8e456a43ebc76ceffe06",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Jun 29 17:50:31 2012 +0200",
+  "message": "clipping text and images into Balsa new season tunnel"
+},
+"322e5a5": {
+  "commit": "322e5a554d62c9416719230e8036f68b5d0fe33c",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 15:37:29 2012 +0200",
+  "message": "vla les fichiers rouges et bleus + formes pour préparation thumbnails"
+},
+"c52fbad": {
+  "commit": "c52fbad4833ca53f2a66c6163217cd925f864c88",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 10:56:01 2012 +0200",
+  "message": "merge"
+},
+"126330f": {
+  "commit": "126330f5460838ae8dafcdc1ce9b6a735e86408e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Jun 29 10:55:01 2012 +0200",
+  "message": "todo"
+},
+"c42c340": {
+  "commit": "c42c3401340fc5bac782370db5028b65e4620f48",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Wed Jun 27 21:07:26 2012 +0200",
+  "message": "la home est toujours curieuse elle aussi."
+},
+"fd6cae3": {
+  "commit": "fd6cae38cea3a9de033b60f87686efa03763a2a9",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 27 15:56:53 2012 +0200",
+  "message": "home suite"
+},
+"1368132": {
+  "commit": "1368132dbe22dc650e74dfd4ea9cafd472811f9f",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 27 15:47:25 2012 +0200",
+  "message": "home suite"
+},
+"e163d8d": {
+  "commit": "e163d8de6bb81c015fbaaaaafb71a846723439c5",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 27 14:54:32 2012 +0200",
+  "message": "tunnel 1"
+},
+"ada0f19": {
+  "commit": "ada0f198b18bce5e27aa18fa7d454525bb218199",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 27 11:02:59 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"c480a8b": {
+  "commit": "c480a8b84bb39ccd835514d9cd3b2350d7bd55ec",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 26 00:21:41 2012 +0200",
+  "message": "acceuil à creuser"
+},
+"fd4b98e": {
+  "commit": "fd4b98eac6fba28ed0ace9895fb829666c86c883",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 26 00:04:54 2012 +0200",
+  "message": "start layout page acceuil"
+},
+"f19ed36": {
+  "commit": "f19ed36bfc76bf49fd9df2443c830987ec827c3b",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon Jun 25 11:28:30 2012 +0200",
+  "message": "voilà ma timesheet"
+},
+"abbc7e9": {
+  "commit": "abbc7e94a06e600be1bdb1ecc2641c1bf075f6e5",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Jun 25 11:19:51 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"0898809": {
+  "commit": "0898809acf7badf68c12f4ca501bfc2cf850286a",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Jun 25 11:18:57 2012 +0200",
+  "message": "ajout timesheet ludi"
+},
+"4961ca9": {
+  "commit": "4961ca94567b401369f39f58ba2b0846d49db6a6",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon Jun 25 11:13:51 2012 +0200",
+  "message": "la todo liste pour la bascule"
+},
+"2b909ac": {
+  "commit": "2b909ac9ac320c67690ffbf2e1cfee7751c1028f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Jun 14 11:17:47 2012 +0200",
+  "message": "balsa budget"
+},
+"92e63c9": {
+  "commit": "92e63c98e249bd90597390b243453fb2cdf6bcc2",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 12 14:52:09 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"2d3d305": {
+  "commit": "2d3d305cb83c8b9da5742958ccf461a4d44b49bd",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon Jun 11 17:37:01 2012 +0200",
+  "message": "img duotone rouge avec bon aperçu écran. tarifs remis sur jaquette"
+},
+"c8ef74f": {
+  "commit": "c8ef74f83823fab9ba74ddd1999925c34c0c012d",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Jun 11 13:55:21 2012 +0200",
+  "message": "flyer start"
+},
+"501829c": {
+  "commit": "501829c9c19b43357b17209dd41734a3fda39dcc",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Jun 11 11:21:53 2012 +0200",
+  "message": "poster print"
+},
+"eb292ca": {
+  "commit": "eb292cacd45366ce194826422c342fb3ffe4b188",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Jun 10 10:50:24 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"5ca7171": {
+  "commit": "5ca717120bcb3722f6fddd7639947f1762154bd9",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun Jun 10 10:50:12 2012 +0200",
+  "message": "du ménage"
+},
+"957e73f": {
+  "commit": "957e73fe029cb0343f3bb8b47afb7dc0b11578ec",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Jun 8 12:26:03 2012 +0200",
+  "message": "poster 12-13 on the road"
+},
+"41477a8": {
+  "commit": "41477a8fc1722f1fdfc0faa04414f4fc0a442e07",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Thu Jun 7 21:28:03 2012 +0200",
+  "message": "écailles"
+},
+"7796b73": {
+  "commit": "7796b73ce6fae7311aa35c12031b741c120c7d28",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Jun 7 17:05:56 2012 +0200",
+  "message": "refait forme des graphviz"
+},
+"64217ef": {
+  "commit": "64217efcaf89b361f2cd300f27c070040ad3b6d2",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu Jun 7 16:44:49 2012 +0200",
+  "message": "test triangles arrondis"
+},
+"e41bba3": {
+  "commit": "e41bba387f571fb2a6006cfcd3d267ea0dbc54aa",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 18:02:38 2012 +0200",
+  "message": "test poster avec fragments de photos"
+},
+"bafbe66": {
+  "commit": "bafbe669e7ffdd8206e3069d9247ebb665debe07",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 17:08:45 2012 +0200",
+  "message": "on remet les photos finales sur le git, vu que de toute manière, elles étaient là mais enfouies..."
+},
+"90f3da6": {
+  "commit": "90f3da665eef3ee480aff5b96112ff2c60270961",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 15:42:29 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"2791c79": {
+  "commit": "2791c793fb79b9acfe1c9b41dae06ae2e97f1fe3",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 15:37:20 2012 +0200",
+  "message": "from jaquette"
+},
+"f59638f": {
+  "commit": "f59638fc81d552a5ecdc2a108646847185e10d19",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 15:18:58 2012 +0200",
+  "message": "iceberg"
+},
+"c7a0658": {
+  "commit": "c7a06587675cd8f658a20f2880ffb580b848a84f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 15:17:49 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"17fe60d": {
+  "commit": "17fe60ded17817336b217cf05452d12288ba7c03",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 15:17:37 2012 +0200",
+  "message": "en rouge"
+},
+"3186c41": {
+  "commit": "3186c41b6463270a95d819b9aed17e21a6636fed",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 15:10:18 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"48a0c08": {
+  "commit": "48a0c08d0151cb9adff8b3acfdf0d3a943529eab",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 15:09:02 2012 +0200",
+  "message": "poster suite"
+},
+"c882c7c": {
+  "commit": "c882c7cb82244866f32da5e4456fad103fcf2254",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 14:50:56 2012 +0200",
+  "message": "tests de thumbnails pour image hors spectacles"
+},
+"efb440d": {
+  "commit": "efb440d55b11398208b824ea292aeea0edbc7a0f",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 12:51:43 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"b3b782f": {
+  "commit": "b3b782f45cb39af4e80db85a900f66791f18e5a2",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Jun 6 12:29:20 2012 +0200",
+  "message": "ravissement en ellipse, boule bootstrap"
+},
+"3eb935f": {
+  "commit": "3eb935fe5a4d20dea5c93f86605b2516b6ab3a92",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed Jun 6 12:14:30 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"ee92d4f": {
+  "commit": "ee92d4f075943b04fab32cc49ed44928cc4744e8",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 5 17:21:34 2012 +0200",
+  "message": "graph spectacle/texte + clipping main/visages"
+},
+"c843f64": {
+  "commit": "c843f643aff6a8ae7093ba3c8a8798122c73a675",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 5 15:46:01 2012 +0200",
+  "message": "la boule ravissement"
+},
+"6d5274b": {
+  "commit": "6d5274b7a22944206118a59bb8afc2b5b8a4308f",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 15:45:55 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"d8e7b71": {
+  "commit": "d8e7b719cff4062f83c6b11339366ef6512eb6df",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 5 15:02:17 2012 +0200",
+  "message": "dot ravissement"
+},
+"f3e5825": {
+  "commit": "f3e58252bda990704cc6c6d249a94481e5f414b5",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 15:02:13 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"b6b12a6": {
+  "commit": "b6b12a6a00addb7637abcccc2fadf0f13099e461",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 14:57:26 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"e71ad19": {
+  "commit": "e71ad19066fee4dbfa1cca5af92f34af51190d77",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 14:57:21 2012 +0200",
+  "message": "yes"
+},
+"097f005": {
+  "commit": "097f00507f19a8beda6225d1eea5168bf27ffa1e",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue Jun 5 14:49:32 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"b266327": {
+  "commit": "b266327dcce23966783904e91c897ae7d758624c",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 5 14:44:54 2012 +0200",
+  "message": "préparation dossier poster saison"
+},
+"3b3cc3d": {
+  "commit": "3b3cc3db037ec42b441184fa6a040c122838700f",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue Jun 5 14:37:08 2012 +0200",
+  "message": "essai du tunnel de la mort de la mort en bulles graphviz"
+},
+"3b7915c": {
+  "commit": "3b7915c68c9867f503412bb8c4ea394bc5025634",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue Jun 5 14:10:32 2012 +0200",
+  "message": "tests totem"
+},
+"10e2524": {
+  "commit": "10e25240e636c07e1f91c1c7df3856918ad063cd",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 14:03:03 2012 +0200",
+  "message": "totem"
+},
+"7dcdfce": {
+  "commit": "7dcdfce89ef73d0734627fd522ca59a8fe525246",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue Jun 5 14:02:06 2012 +0200",
+  "message": "ludi back"
+},
+"c8bd2cb": {
+  "commit": "c8bd2cbc844014e6f2f4e8bb23811915649f98b3",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Fri Jun 1 15:35:57 2012 +0200",
+  "message": "stamp samedi 6euros"
+},
+"f411a38": {
+  "commit": "f411a38d435514d2bf271906f65f43410d0c9a15",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Fri Jun 1 15:21:19 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"fd98c08": {
+  "commit": "fd98c08a02527cc3d4824dd83e2d29bf9f7cccc6",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Fri Jun 1 15:19:30 2012 +0200",
+  "message": "dernieres modifs programme"
+},
+"c5f4b85": {
+  "commit": "c5f4b85ce2cc8744fd9c14f70970c857ab2197dc",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 30 10:49:58 2012 +0200",
+  "message": "fichiers ludi remis sur le git"
+},
+"641a57b": {
+  "commit": "641a57b228cfc229853fbeadf70484de5ab50039",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed May 30 07:19:23 2012 +0200",
+  "message": "go"
+},
+"b949e82": {
+  "commit": "b949e82f62a5cab61bdab4a708bf0d63ecfedb06",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 28 17:36:31 2012 +0200",
+  "message": "stamp et totem en cours"
+},
+"057db31": {
+  "commit": "057db31c0108d3931609fe46b059d0723305ab57",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 25 15:50:07 2012 +0200",
+  "message": "logos isolés svg"
+},
+"a73e561": {
+  "commit": "a73e561a6308f48b80dd52e928a819dc7adbe626",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 25 15:49:30 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"ff3edc7": {
+  "commit": "ff3edc718422f16e104c94cd6bbae2e3d4e52b93",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 25 15:49:17 2012 +0200",
+  "message": "todo"
+},
+"4b9d2b1": {
+  "commit": "4b9d2b1c57d038bb494c2f14ac4e560d96eaaf27",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed May 23 19:01:45 2012 +0200",
+  "message": "totem cut"
+},
+"e760945": {
+  "commit": "e760945e661127cb11b31dbbab58482a563cfec8",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed May 23 15:09:49 2012 +0200",
+  "message": "start totem"
+},
+"bfa5014": {
+  "commit": "bfa50140e74e39024cbd53ec5b9ea5e14de65531",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue May 22 18:10:18 2012 +0200",
+  "message": "base totem"
+},
+"533d506": {
+  "commit": "533d506161921b26e0bc6dac0a8730ffd744db93",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 23:28:40 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"a6d7064": {
+  "commit": "a6d7064b7112723acc2d46b0818a70f75dadf966",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue May 15 17:55:36 2012 +0200",
+  "message": "brown"
+},
+"6e84cb9": {
+  "commit": "6e84cb90a9fb3c4b9eb051bf3b349cf2073ff96e",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue May 15 17:43:55 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"bd1dad8": {
+  "commit": "bd1dad83a0bbc43032d0f67a413b08aa99747e83",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue May 15 17:43:01 2012 +0200",
+  "message": "yellow"
+},
+"14f8647": {
+  "commit": "14f8647fb069a281e18a67c941c9bb53ccbd033f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 16:09:45 2012 +0200",
+  "message": "un peu de ménage"
+},
+"d0261a0": {
+  "commit": "d0261a00c6595d836a60962818a406a960b1f9ca",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 15:26:40 2012 +0200",
+  "message": "il restait du noir dans enfant zéro"
+},
+"fb4cd63": {
+  "commit": "fb4cd639023f3540db0405dd830fb412a40d97d7",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 13:04:17 2012 +0200",
+  "message": "bonhomme boule"
+},
+"1378142": {
+  "commit": "137814207ecbd221819a16958947e5eeb19f152f",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 12:42:48 2012 +0200",
+  "message": "on nettoie le git de pierre, qui n'a pas l'air si bordélique que ça?"
+},
+"8ef81d6": {
+  "commit": "8ef81d61b58eb24eb42eccda566f306277d63c7b",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 12:39:27 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"57c57f6": {
+  "commit": "57c57f6970926ce2ba604db259a46c1bae12c30f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 12:34:51 2012 +0200",
+  "message": "correction pass"
+},
+"cc15963": {
+  "commit": "cc15963549defea4caf1aab35455de464242341f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 12:26:48 2012 +0200",
+  "message": "correction tarifs"
+},
+"358b40e": {
+  "commit": "358b40eccbc98b2c68d7e4c0bb5823808cddb473",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 10:10:37 2012 +0200",
+  "message": "mini-ajustements sur jaquette intérieure"
+},
+"c337e92": {
+  "commit": "c337e9218afffba7a89fd8af0e840d9ac3027957",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 09:45:07 2012 +0200",
+  "message": "pantone bleu ok"
+},
+"e655fb5": {
+  "commit": "e655fb5ce0f81f31beb66ccceda9afb835f0c8bb",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 09:14:29 2012 +0200",
+  "message": "allezzz"
+},
+"ab48c41": {
+  "commit": "ab48c410c7563da8c6f1b3dafcf0d71d91cd5067",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Tue May 15 09:08:22 2012 +0200",
+  "message": "pantonette"
+},
+"25dc2e9": {
+  "commit": "25dc2e9a3eb8a4d535c473ff92c91362bde48054",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 08:27:44 2012 +0200",
+  "message": "le pantone rouge!!!!!!!"
+},
+"745fe46": {
+  "commit": "745fe463e47e5f26f7192b70fc72c862194ceec8",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 07:56:14 2012 +0200",
+  "message": "des poils etc"
+},
+"4c4a778": {
+  "commit": "4c4a77860c22eb241cf15b18acfb1a36addd3713",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 07:14:55 2012 +0200",
+  "message": "des poils et du poids"
+},
+"1e6660e": {
+  "commit": "1e6660ecae5bdd4ea7c8f53e241e03c88b844d8c",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 07:11:00 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"ab4a4af": {
+  "commit": "ab4a4af2dabab617704de36ae551cfa35dbfc4fe",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 07:07:41 2012 +0200",
+  "message": "pantone.sla"
+},
+"fafb14c": {
+  "commit": "fafb14ccc6c543e8d61b3006500d93111b8aa7c4",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 07:03:38 2012 +0200",
+  "message": "clean portfolio.sla"
+},
+"e375331": {
+  "commit": "e37533150a5ed29b46d79d0092bb36bf2f39be83",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 07:03:09 2012 +0200",
+  "message": "pantone?"
+},
+"c9bfd5d": {
+  "commit": "c9bfd5dc884e9fd5c91ca91f13bbebe432536bda",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 05:30:29 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"88b0a58": {
+  "commit": "88b0a5881bd410fb53147d99d649b269ae5452ff",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 04:03:05 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"f1fb33f": {
+  "commit": "f1fb33fb5c20345a38813a1ea8f7e7ab0a37ea86",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 04:02:01 2012 +0200",
+  "message": "re-sharp img nb, tarifs, corrections portfolio..."
+},
+"2feb7af": {
+  "commit": "2feb7af184692623d6503845e0ae24b9ea3af4ad",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 15 04:00:46 2012 +0200",
+  "message": "hatches"
+},
+"4ebe0d8": {
+  "commit": "4ebe0d8474b4bc64f79b76e12856d85187a0385c",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 02:03:15 2012 +0200",
+  "message": "les hautes def finales d'Hichem et diverses fléchouilles"
+},
+"2aad3e8": {
+  "commit": "2aad3e8890e3c006c5b460d15f273e7b9c96a9d9",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Tue May 15 02:00:46 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"387646d": {
+  "commit": "387646d01228d113d9491a66c6975724017d1be0",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 14 23:24:49 2012 +0200",
+  "message": "jaquette cover"
+},
+"fac7797": {
+  "commit": "fac7797681a485f5383279f8c7557abb5b74e44d",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 23:07:59 2012 +0200",
+  "message": "le grand graph paysage"
+},
+"22dd875": {
+  "commit": "22dd8757cc37f00e16147d7313ab3103b2cb63c6",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 19:16:21 2012 +0200",
+  "message": "ça n'en finit toujours pas..."
+},
+"68d1aa1": {
+  "commit": "68d1aa1ba3def4a8c1a54a10b616e7a62827fb47",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 19:05:19 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"24535e9": {
+  "commit": "24535e952489302ab7fd0520b003f446cadf461a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 19:03:38 2012 +0200",
+  "message": "ça n'en finit pas..."
+},
+"13af5d8": {
+  "commit": "13af5d8b256673b72da22babc058f9560fad4f1f",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 14 17:53:59 2012 +0200",
+  "message": "cover - iceberg"
+},
+"ba5f49f": {
+  "commit": "ba5f49fd983e0553f895641eb2fba08d0b690cc1",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 17:31:29 2012 +0200",
+  "message": "une livraison de couverture, en screen capture pour rendre léger"
+},
+"2cd249e": {
+  "commit": "2cd249e7aa9e8f45e8d49cbe40aac0e446fcf854",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 17:15:37 2012 +0200",
+  "message": "un peu avant d'envoyer"
+},
+"e9a9a02": {
+  "commit": "e9a9a020e0f6898c6162b7d6a4eadb174fbd850e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 15:37:51 2012 +0200",
+  "message": "totem pierre"
+},
+"f4c18bb": {
+  "commit": "f4c18bbd035fd75e069fde3c3a2cf8422c36c719",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 15:37:20 2012 +0200",
+  "message": "pull"
+},
+"e835951": {
+  "commit": "e835951a2f9fd67f67207152a070b6c3904db230",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 14 15:29:40 2012 +0200",
+  "message": "2e voix + dates calendrier"
+},
+"9523961": {
+  "commit": "9523961a4128eebc2f44a11b4601526a5fcabfb0",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 13:59:24 2012 +0200",
+  "message": "cover roussel c'est parti"
+},
+"f59e365": {
+  "commit": "f59e365a6613823aff0213f684cb1c9a21aa6661",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 13:33:49 2012 +0200",
+  "message": "lecteur détouré"
+},
+"b068b12": {
+  "commit": "b068b12780dee4178013286b2bf0c094cb465430",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 11:53:27 2012 +0200",
+  "message": "réapparition sur scène - merci steph"
+},
+"1cab66b": {
+  "commit": "1cab66bdacca07304b0b55c999e1cf7784455844",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 14 10:31:12 2012 +0200",
+  "message": "ajout graph et suite corrections jaquette"
+},
+"a19857a": {
+  "commit": "a19857a1c4833a70cab845b3a59c3cbbb571bbda",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon May 14 08:28:20 2012 +0200",
+  "message": "haaaa, Pierre arrive à rejoindre le git?"
+},
+"0a45d1b": {
+  "commit": "0a45d1bdda67fc4b1228946f137533f4c372e496",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sun May 13 19:01:46 2012 +0200",
+  "message": "sharp"
+},
+"cae4409": {
+  "commit": "cae4409e39235e4fc7ce43613d0ad47ce261ab6d",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sat May 12 22:04:27 2012 +0200",
+  "message": "avancées du jour"
+},
+"4062a92": {
+  "commit": "4062a9248748252a555cd9e2ad6c481037dc73c3",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sat May 12 22:03:56 2012 +0200",
+  "message": "des italiques!"
+},
+"749d178": {
+  "commit": "749d178ca8839733adb0456e96f98a4f19d374a3",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sat May 12 16:02:57 2012 +0200",
+  "message": "thin space in mincho balsa"
+},
+"7e977a5": {
+  "commit": "7e977a5993700655d0d4959a408a02864af7ed4f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sat May 12 12:25:19 2012 +0200",
+  "message": "nvo paquet des 4 fontes(mincho, p mincho, gothic, vertical): thin space, narrow no break space, no break space, zero width space"
+},
+"ac49fb6": {
+  "commit": "ac49fb6e3ecfc8f11b7ffadf55dc0310d5e1d507",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 11 19:30:41 2012 +0200",
+  "message": "corrections"
+},
+"b6989fc": {
+  "commit": "b6989fcc90b9523f232be713eb51e34e57d2d5c3",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 11 16:49:41 2012 +0200",
+  "message": "blocs texte plus denses dans portfolio. test bibles"
+},
+"07236ff": {
+  "commit": "07236ff8651267e9a32bc9cda011aa89e7345d0a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 11 00:11:33 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"ce7a49d": {
+  "commit": "ce7a49d68c179ba3cafb4359bf3bef8f605f75fa",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 11 00:11:22 2012 +0200",
+  "message": "timeline"
+},
+"443cb18": {
+  "commit": "443cb184373f717d984000c9423ff890c8646415",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Thu May 10 19:02:54 2012 +0200",
+  "message": "portfolio post reu"
+},
+"0c48e89": {
+  "commit": "0c48e8907e7401540f9b68cc1a0082dda801f4b6",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu May 10 12:38:37 2012 +0200",
+  "message": "bla"
+},
+"d8dd209": {
+  "commit": "d8dd2094e44cd389ed980bdf53d431c8ca12909c",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Thu May 10 07:43:47 2012 +0200",
+  "message": "start totem"
+},
+"b69b2fb": {
+  "commit": "b69b2fb5ea20868bbb034c298155d21e702e0a66",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Thu May 10 02:55:53 2012 +0200",
+  "message": "portfolio go"
+},
+"37fe24d": {
+  "commit": "37fe24d30707a0c3d49f5852eecab2b79e86bf78",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 13:39:37 2012 +0200",
+  "message": "réglé les infos pratiques. reste tarifs à faire"
+},
+"7f84012": {
+  "commit": "7f8401211c5f6c2b3cc2ad6ee6bbf266a38d5cd1",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:46:33 2012 +0200",
+  "message": "re la jaquette"
+},
+"ece4fbf": {
+  "commit": "ece4fbf9b6a1c37f0e46fbf89ceec6fa5994bdee",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:42:36 2012 +0200",
+  "message": "rm photos hichem doublons"
+},
+"2662f83": {
+  "commit": "2662f831a5175b9ab8b43a3b0c7bc170149eb25d",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:39:54 2012 +0200",
+  "message": "nvele ref"
+},
+"d0b3299": {
+  "commit": "d0b3299fd5abf2bb6a8aa49daf62d3e39007ecbe",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:34:08 2012 +0200",
+  "message": "rm old portfolio"
+},
+"b0145c2": {
+  "commit": "b0145c25da92030fb99317400f3bdfa23028e8ec",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:06:54 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"7f00ae4": {
+  "commit": "7f00ae481dca4cd445c98a50b8b16280326c23c4",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 9 12:03:08 2012 +0200",
+  "message": "jaquette jaquette"
+},
+"d4e8eab": {
+  "commit": "d4e8eab0a87e55b50924e1bf7baba374b44b3932",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed May 9 10:41:38 2012 +0200",
+  "message": "pieces test"
+},
+"eb577b9": {
+  "commit": "eb577b9705fcf5535572e1e699b7c74b51ddcdc9",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Wed May 9 08:14:13 2012 +0200",
+  "message": "portfolio with blue"
+},
+"7bbaa94": {
+  "commit": "7bbaa942a93da5b23e9c66ae2a311c6c6401ddcd",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 8 19:27:12 2012 +0200",
+  "message": "la jaquette avance!"
+},
+"f4b8488": {
+  "commit": "f4b8488a2851496d457d2fea91b3ca06b988c446",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 8 18:41:26 2012 +0200",
+  "message": "nvx infos pratiques"
+},
+"d4d32f9": {
+  "commit": "d4d32f922d4276e1776584e76bb2cb0fa5becaa0",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 8 18:35:40 2012 +0200",
+  "message": "logos"
+},
+"f50a644": {
+  "commit": "f50a6447a5ea8f620c21b1be9f4519f2f0be6aa0",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 8 14:39:59 2012 +0200",
+  "message": "photos série hichem"
+},
+"6ecff28": {
+  "commit": "6ecff28ad723f95b74b14011bea2195e03a4aa1d",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Mon May 7 21:04:14 2012 +0200",
+  "message": "re-tests"
+},
+"27fa099": {
+  "commit": "27fa099fc9b6b6518b02dc71083dd726acbf123f",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 7 16:35:51 2012 +0200",
+  "message": "ovalons"
+},
+"d9af4c6": {
+  "commit": "d9af4c6b6569e467db2c8d7358e432cd3ae6e6fd",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon May 7 15:25:54 2012 +0200",
+  "message": "decoupes ovales"
+},
+"5f6f0a8": {
+  "commit": "5f6f0a81727f6b0c722398a338a668c35827add0",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri May 4 17:17:55 2012 +0200",
+  "message": "dessin raymond roussel + start svg prix des places"
+},
+"3a9f78a": {
+  "commit": "3a9f78af29145ca0de533a9f1b35de79e8721f1e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu May 3 18:20:21 2012 +0200",
+  "message": "matériel"
+},
+"245faed": {
+  "commit": "245faed282e2d11fa0b6cba056945b32735c753e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu May 3 18:19:33 2012 +0200",
+  "message": "nvx tests"
+},
+"d28baec": {
+  "commit": "d28baec675cdba9c97d07061bb4a87ad8ec718bc",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Thu May 3 13:14:38 2012 +0200",
+  "message": "refs peinture brad phillips"
+},
+"ae3fd96": {
+  "commit": "ae3fd965b05e2177e46df1007d6daa9a64a9ae2a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 2 21:29:01 2012 +0200",
+  "message": "1re offre programme"
+},
+"2207aae": {
+  "commit": "2207aae4fd31e9bdf2a7cd318e6fa9f25186393f",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed May 2 21:28:47 2012 +0200",
+  "message": "tests avec vis-à-vis, recadrage au verso, ou série de tests photos d'Hichem. bibles sur la jaquette"
+},
+"23e8e68": {
+  "commit": "23e8e687ef0c18f97c4d583658c35e11778f8690",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 1 17:39:30 2012 +0200",
+  "message": "tests mise en page cahier central. texte re-réparti dans jaquette et cahier."
+},
+"be1c731": {
+  "commit": "be1c7318a05d54f4bf397f9987094280ad589d41",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 1 17:16:47 2012 +0200",
+  "message": "tests hatches, spiro, tracés, etc."
+},
+"cee590a": {
+  "commit": "cee590a59a47465455ee7c43a0069c951423e753",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 1 17:15:09 2012 +0200",
+  "message": "Merge branch 'master' of git.constantvzw.org:osp.work.balsamine.2012-2013"
+},
+"b95f16c": {
+  "commit": "b95f16c8802a0d777cb13b283e5c60c9dcd67a2e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Tue May 1 17:15:01 2012 +0200",
+  "message": "refs derek birdsall + curnonsky"
+},
+"484b1ff": {
+  "commit": "484b1ff8894a8aefd15acda37b874c7d0afdba6e",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Apr 30 00:54:37 2012 +0200",
+  "message": "rangement"
+},
+"9527942": {
+  "commit": "95279423d677e602608786d52567ca3c8f064115",
+  "author": "Crickxson <crickxson@gmail.com>",
+  "date": "Mon Apr 30 00:52:43 2012 +0200",
+  "message": "enfin les premiers fichiers d'imposition"
+},
+"ac33711": {
+  "commit": "ac33711c7848d40fafb6ebe29adb7d08868d1b86",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Sat Apr 28 20:20:39 2012 +0200",
+  "message": "ajout images ref"
+},
+"ede6dcf": {
+  "commit": "ede6dcfc5c1763c79f3edbac02d8e06872ae496e",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Sat Apr 28 15:13:48 2012 +0200",
+  "message": "corrections"
+},
+"00a5efd": {
+  "commit": "00a5efd2d4eb37e57267c1fe4bcaa5482dd04e8b",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Fri Apr 27 19:58:53 2012 +0200",
+  "message": "start portfolio - jaquette"
+},
+"5a379d1": {
+  "commit": "5a379d117f41f675c0561cb09e8a3c4976fb2a81",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Fri Apr 27 10:58:30 2012 +0200",
+  "message": "textes programme, partie centrale"
+},
+"7f6822b": {
+  "commit": "7f6822b9725d8349d20da91e14e71477aec1d119",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Apr 18 23:20:41 2012 +0200",
+  "message": "tests imposition + coulage textes scribus"
+},
+"638ef9d": {
+  "commit": "638ef9dfb341789013a5f6467c612391a164894a",
+  "author": "Stéphanie Vilayphiou <stephanie@stdin.fr>",
+  "date": "Wed Apr 18 23:19:15 2012 +0200",
+  "message": "gitignore"
+},
+"86d3724": {
+  "commit": "86d3724eabe288b925163170bc248305eb026abd",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Apr 16 18:01:51 2012 +0200",
+  "message": "test images"
+},
+"f7dc090": {
+  "commit": "f7dc0906f1417620d74ac29b379ec1d088674220",
+  "author": "Ludivine Loiseau <ludi.loiseau@gmail.com>",
+  "date": "Mon Apr 16 15:20:56 2012 +0200",
+  "message": "stsrt balsa"
+},};

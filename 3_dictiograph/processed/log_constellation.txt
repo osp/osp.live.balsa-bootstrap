@@ -1,0 +1,343 @@
+Ludivine Loiseauspoke
+
+— tetris part starting
+
+Thursday, 16th June 2011 - 00:04
+ 
+
+Stéphanie Vilayphioulet the cat out of the bag
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 16th June 2011 - 00:19
+ 
+
+Stéphanie Vilayphiouironized
+
+— agenda custom gantt
+
+Thursday, 16th June 2011 - 01:10
+ 
+
+Stéphanie Vilayphiousong
+
+— vignettes 300dpi. isabelle nouzha frame
+
+Thursday, 16th June 2011 - 02:13
+ 
+
+Alexandre Leraybabbled
+
+— Reglé le style "bold" (encadrés dans le texte)
+
+Thursday, 16th June 2011 - 04:13
+ 
+
+Alexandre Leraycomplained
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 16th June 2011 - 04:14
+ 
+
+Ludivine Loiseauclaimed
+
+— cover svg et pages infos ok 1
+
+Thursday, 16th June 2011 - 04:16
+ 
+
+pierrehtattled
+
+— cover presque la
+
+Thursday, 16th June 2011 - 04:27
+ 
+
+pierrehbabbled out
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 16th June 2011 - 04:27
+ 
+
+pierrehsaid
+
+— la cover
+
+Thursday, 16th June 2011 - 04:35
+ 
+
+pierrehsaid
+
+— la cover une variante
+
+Thursday, 16th June 2011 - 04:40
+ 
+
+Stéphanie Vilayphioushouted
+
+— umepgothicbalsa
+
+Thursday, 16th June 2011 - 04:49
+ 
+
+Stéphanie Vilayphiousaid
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 16th June 2011 - 04:49
+ 
+
+pierrehshouted
+
+— la cover 2 eps
+
+Thursday, 16th June 2011 - 04:50
+ 
+
+Stéphanie Vilayphiouwhispered
+
+— constellations
+
+Thursday, 16th June 2011 - 04:51
+ 
+
+Stéphanie Vilayphiouunwraped
+
+— agenda sur A5
+
+Thursday, 16th June 2011 - 04:52
+ 
+
+Stéphanie Vilayphiouironized
+
+— agenda A5 dans print
+
+Thursday, 16th June 2011 - 04:52
+ 
+
+pierrehironized
+
+— la cover 2 pdf
+
+Thursday, 16th June 2011 - 04:55
+ 
+
+Stéphanie Vilayphioupublished
+
+— constellations bis
+
+Thursday, 16th June 2011 - 05:18
+ 
+
+pierrehtalked
+
+— logo clean
+
+Thursday, 16th June 2011 - 05:18
+ 
+
+pierrehsaid
+
+— logo a4
+
+Thursday, 16th June 2011 - 05:22
+ 
+
+Stéphanie Vilayphioutold
+
+— derniers ajustements
+
+Thursday, 16th June 2011 - 05:26
+ 
+
+Stéphanie Vilayphioutweeted
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Thursday, 16th June 2011 - 05:27
+ 
+
+Stéphanie Vilayphioupublished
+
+— todo
+
+Thursday, 16th June 2011 - 14:53
+ 
+
+Ludivine Loiseaurevealed
+
+— c'est reparti
+
+Thursday, 16th June 2011 - 15:20
+
+
+Stéphanie Vilayphioubabbled out
+
+— lien entre salon refusés 1 et 2. festival genèse= nuages de points
+
+Thursday, 16th June 2011 - 16:26
+ 
+
+Stéphanie Vilayphioubabbled
+
+— sauts de lignes dans OSP
+
+Thursday, 16th June 2011 - 16:29
+ 
+
+Stéphanie Vilayphiourevealed
+
+— sauts de lignes dans OSP
+
+Thursday, 16th June 2011 - 16:33
+ 
+
+Stéphanie Vilayphioutalked
+
+— grands espaces dans les titres. genèse: Big titre
+
+Thursday, 16th June 2011 - 16:48
+ 
+
+Stéphanie Vilayphioutalked
+
+— encadré début programme genèse
+
+Thursday, 16th June 2011 - 16:59
+ 
+
+Stéphanie Vilayphioutalked
+
+— encadré début programme genèse
+
+Thursday, 16th June 2011 - 17:01
+ 
+
+Stéphanie Vilayphiouspilled the beans
+
+— saut de ligne dans signatures
+
+Thursday, 16th June 2011 - 17:03
+ 
+
+Stéphanie Vilayphioucomplained
+
+— saut de ligne dans signatures
+
+Thursday, 16th June 2011 - 17:03
+ 
+
+Stéphanie Vilayphioustated
+
+— saut de ligne quand il n'y a pas de 'role', évite superposition dessin et texte en marge
+
+Thursday, 16th June 2011 - 17:52
+ 
+
+Stéphanie Vilayphioutattled
+
+— URLs soulignées en context
+
+Thursday, 16th June 2011 - 17:55
+ 
+
+Ludivine Loiseausaid
+
+— corrections ok
+
+Thursday, 16th June 2011 - 18:33
+ 
+
+Stéphanie Vilayphioutalked
+
+— footnote martine dans marges. * à gauche
+
+Thursday, 16th June 2011 - 18:47
+ 
+
+Stéphanie Vilayphioucried
+
+— footnote osp dans la marge
+
+Thursday, 16th June 2011 - 18:52
+ 
+
+Stéphanie Vilayphioublabed out
+
+— schéma osp centré
+
+Thursday, 16th June 2011 - 19:19
+ 
+
+Stéphanie Vilayphioutalked
+
+— merge avec ludi
+
+Thursday, 16th June 2011 - 19:30
+ 
+
+Stéphanie Vilayphioulet on
+
+— enlevé ** dans osp
+
+Thursday, 16th June 2011 - 19:32
+ 
+
+Stéphanie Vilayphiousaid
+
+— coquille dans odile
+
+Thursday, 16th June 2011 - 19:34
+ 
+
+Stéphanie Vilayphiousaid
+
+— mini erreur de souligné
+
+Thursday, 16th June 2011 - 19:35
+ 
+
+Stéphanie Vilayphioulet out
+
+— salon des refusés. formatage texte marge
+
+Thursday, 16th June 2011 - 19:43
+ 
+
+Stéphanie Vilayphioutalked
+
+— corrections agenda
+
+Thursday, 16th June 2011 - 20:09
+ 
+
+Stéphanie Vilayphioulet the cat out of the bag
+
+— todo
+
+Thursday, 16th June 2011 - 20:10
+ 
+
+Stéphanie Vilayphioutalked
+
+— todo
+
+Thursday, 16th June 2011 - 20:32
+ 
+
+Ludivine Loiseaucried
+
+— sur la rampe
+
+Thursday, 16th June 2011 - 20:33
+ 
+
+Stéphanie Vilayphioulet the cat out of the bag
+
+— original constellations
+
+Thursday, 16th June 2011 - 20:33
+
+

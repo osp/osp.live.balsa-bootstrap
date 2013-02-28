@@ -1,0 +1,300 @@
+Alexandre Lerayemited
+
+— Créé le dépôt
+
+Tuesday, 10th May 2011 - 12:04
+ 
+
+Alexandre Lerayconfessed
+
+— Commencé le page de drag and drop de fichiers
+
+Tuesday, 10th May 2011 - 14:09
+ 
+
+Alexandre Lerayrendered
+
+— Amélioré le design de la page drag'n drop
+
+Tuesday, 10th May 2011 - 15:32
+ 
+
+Alexandre Leraysong
+
+— Utilisation de dorparea.js modifié pour l'occasion
+
+Tuesday, 10th May 2011 - 17:58
+ 
+
+Alexandre Lerayspilled the beans
+
+— Customizé le html5 drag n drop
+
+Tuesday, 10th May 2011 - 19:41
+ 
+
+Alexandre Lerayspilled the beans
+
+— Ajouté le répertoire "uploads" au gitignore
+
+Tuesday, 10th May 2011 - 19:45
+ 
+
+Alexandre Lerayconfessed
+
+— Merge branch 'master' into custom_droparea.js
+
+Wednesday, 11th May 2011 - 12:45
+ 
+
+Alexandre Lerayshouted
+
+— Créé un dossier pour le programme et ses sources
+
+Wednesday, 18th May 2011 - 11:47
+ 
+
+Alexandre Lerayverbalised
+
+— 1er formatage markdown la version 1 du programme
+
+Wednesday, 18th May 2011 - 14:07
+ 
+
+Alexandre Leraypublished
+
+— Created a script to upload files by email
+
+Wednesday, 18th May 2011 - 20:33
+ 
+
+Ludivine Loiseautalked
+
+— ajout des fichiers fonts collection de modules
+
+Wednesday, 18th May 2011 - 21:16
+ 
+
+Hélènedivulged
+
+— experimentation context
+
+Thursday, 19th May 2011 - 15:49
+ 
+
+Alexandre Lerayironized
+
+— Tests de mon côté pour le booklet
+
+Thursday, 19th May 2011 - 16:17
+ 
+
+Hélènespilled the beans
+
+— Ajouté 1 script pour convertir les images du Booklet + les images converties
+
+Thursday, 19th May 2011 - 18:04
+ 
+
+Alexandre Leraybring out
+
+— D'autres tests pour le booklet
+
+Thursday, 19th May 2011 - 19:21
+ 
+
+Alexandre Leraysaid
+
+— Ajouté des fichiers podofo pour l'imposition
+
+Thursday, 19th May 2011 - 19:22
+ 
+
+Alexandre Lerayspilled the beans
+
+— Merge remote branch 'origin/master'
+
+Thursday, 19th May 2011 - 19:26
+ 
+
+Stéphanie Vilayphiouuttered
+
+— add pdf-list for podofo
+
+Friday, 20th May 2011 - 11:25
+ 
+
+Stéphanie Vilayphioustated
+
+— put back ludi identity folder
+
+Friday, 20th May 2011 - 11:26
+ 
+
+Pierre Huyghebaertpeached
+
+— morceaux
+
+Friday, 20th May 2011 - 12:47
+ 
+
+Ludivine Loiseaudisclosed
+
+— ajout fichier recherche logo
+
+Saturday, 21st May 2011 - 11:03
+ 
+
+Alexandre Lerayconfessed
+
+— test steph. 1 colonne, tentative d'utilisation de la MARGE
+
+Friday, 27th May 2011 - 22:41
+ 
+
+Alexandre Leraytweeted
+
+— sections, titles, table of content. title page + cleaning
+
+Saturday, 28th May 2011 - 16:10
+ 
+
+Alexandre Lerayshouted
+
+— sections, titles, table of content. title page + cleaning
+
+Saturday, 28th May 2011 - 16:12
+ 
+
+Alexandre Leraytattled
+
+— cleaning layout and margins
+
+Saturday, 28th May 2011 - 21:20
+ 
+
+Ludivine Loiseaudisclosed
+
+— ajout des fichiers textes, plan, agenda + photos Ichem
+
+Sunday, 29th May 2011 - 17:19
+ 
+
+Ludivine Loiseaudisclosed
+
+— Merge branch 'master' of git.constantvzw.org:balsamine
+
+Sunday, 29th May 2011 - 17:19
+ 
+
+Ludivine Loiseaudiscovered
+
+— fontes size mix test
+
+Sunday, 29th May 2011 - 18:33
+ 
+
+Stéphanie Vilayphioubabbled out
+
+— setup indentations
+
+Sunday, 29th May 2011 - 18:48
+ 
+
+pierrehsaid
+
+— pierreh se met enfin en git balsa mode, enfin essaie, espere ne rien casser
+
+Sunday, 29th May 2011 - 18:57
+ 
+
+Stéphanie Vilayphioutalked
+
+— ignore openoffice temp files
+
+Sunday, 29th May 2011 - 19:03
+ 
+
+Stéphanie Vilayphioushouted
+
+— put tests in tests folder
+
+Sunday, 29th May 2011 - 19:30
+ 
+
+Ludivine Loiseauspoke
+
+— Ume Balsa et layout tests
+
+Monday, 30th May 2011 - 00:48
+ 
+
+Stéphanie Vilayphiouconfessed
+
+— new project structure. start to work on structure styles. paragraphs, headings
+
+Monday, 30th May 2011 - 01:12
+ 
+
+Stéphanie Vilayphioublabed
+
+— Merge branch 'master' of git.constantvzw.org:balsamine into alex
+
+Monday, 30th May 2011 - 01:13
+ 
+
+Stéphanie Vilayphioublabed out
+
+— reclean structure folder
+
+Monday, 30th May 2011 - 01:15
+ 
+
+pierrehlet on
+
+— logo un peu
+
+Monday, 30th May 2011 - 01:21
+ 
+
+pierrehclaimed
+
+— logo un peu
+
+Monday, 30th May 2011 - 01:21
+ 
+
+Stéphanie Vilayphiouexposed
+
+— Merge branch 'alex'
+
+Monday, 30th May 2011 - 01:24
+ 
+
+Alexandre Leraycomplained
+
+— programme version définitive! j'ai modifié légèrement le html (corrections typos essentiellement)
+
+Tuesday, 31st May 2011 - 16:55
+ 
+
+Alexandre Lerayspilled the beans
+
+— programme piqure à cheval
+
+Wednesday, 1st June 2011 - 02:37
+ 
+
+Alexandre Leraytalked
+
+— ume gothic version écriture verticale
+
+Wednesday, 1st June 2011 - 02:38
+ 
+
+Ludivine Loiseauuttered
+
+— suite logo et start posters
+
+Wednesday, 1st June 2011 - 10:12
+
