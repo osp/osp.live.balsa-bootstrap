@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="/static/jquery.js"></script>
+<script>
+
+$(document).ready(function(){
+    
+    
+    var ws = new WebSocket("ws://127.0.0.1:8000/plotter");
+    var STATUS_READY = false;
+    var STEP_CONTROL_MAX = 10;
+    var STEP_CONTROL_STEP = 1;
+    var step_control = 0;
+    
+    ws.onopen = function() {
+        console.log('Connected to plotter');
+        
+    };
+    ws.onmessage = function (evt) {
+        var data = JSON.parse(evt.data);
+        if(data.status !== undefined)
+        {
+            if(data.status === 'ready')
+            {
+                STATUS_READY = true;
+            }
+        }
+    };
+    
+    $('#start').on('click', function(){
+        $(this).hide();
+        var ww = $(window).width();
+        var wh = $(window).height();
+        $('body').css({
+            width: ww+'px',
+            height: wh+'px'
+        });
+        
+        var ctx_width = $('#context').width();
+        var ctx_height = $('#context').height();
+        var ctx_data = {
+            scale:1,
+            w:ctx_width,
+            h:ctx_height,
+        };
+        ws.send(JSON.stringify(ctx_data))
+        
+        $('#context').on('mousemove', function(event){
+            var data = {x:event.pageX , y:event.pageY };
+            //         if(STATUS_READY)
+            if(step_control >= STEP_CONTROL_MAX)
+            {
+                console.log(data);
+                //             STATUS_READY = false;
+                step_control = 0;
+                ws.send(JSON.stringify(data));
+            }
+            else
+            {
+                step_control += STEP_CONTROL_STEP;
+            }
+        });
+    });
+    
+    
+});
+</script>
+<style>
+*{margin:0;border:none;padding:0}
+
+body{
+    background-color:#aaf;
+    width:100%;
+    height:100%;
+}
+
+#context{
+    width:100%;
+    height:100%;
+    background-color:white;
+}
+</style>
+</head>
+<body>
+<div id="context">
+<h1 id="start">START</h1>
+</div>
+</body>
+</html>
