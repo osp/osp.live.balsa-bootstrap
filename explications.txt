@@ -1,14 +1,90 @@
+Madame, Monsieur,
+
+Explication video martine:
+- logiciel incarne culture et decisions
+- double tranchant: ordinateur peut aider ou imposer 
+
+présentation OSP
+
+
+contexte dans lequel OSP à été amené à travailler avec la balsa
+
+Involuer, c’est avoir une marche de plus en plus simple, économe, sobre(...)C’est vrai aussi de la vie, même la plus animale: si les animaux inventent leurs formes et leurs fonctions, ce n’est pas toujours en évoluant, en se développant, ni en régressant comme dans le cas de la prématuration, mais en perdant, en abandonnant, en réduisant, en simplifiant, quitte à créer les nouveaux éléments et les nouveaux rapports de cette simplification. L’expérimentation est involutive, le contraire de l’over-dose. C’est vrai aussi de l’écriture: arriver à cette sobriété, cette simplicité qui n’est ni la fin ni le début de quelque chose. Involuer, c’est être “entre”, au milieu, adjacent.
+
+-- Gilles Deleuze et Claire Parnet
+
+Présentation print parties
+
+Ce soir rejouer ingrédients identité
+
+Cuisine en parralèle (Vietnam, voyage)
+
+
+Ume
+---
+
+Prune
+http://sourceforge.jp/projects/ume-font/
+http://sourceforge.jp/projects/ume-font/wiki/FrontPage
+
+
+
 Turtle
 - - -
-Turtle graphic est une méthode de programmation graphique vectoriel
+méthode de programmation graphique vectoriel.
+Particularité: plan cartésien mais curseur (la tortue) relatif.
 
+Approche classique: absolue, bataille navale 
+
+Le curseur à 3 attributs
+- position
+- orientation
+- brosse (pinceau)
+  - couleur
+  - taille
+  - forme
+
+Chaque mouvement influencé par les précédents
+
+Semour Papert, language logo
+à la base un robot programmable
+But pédagogique: enfants devient tortue
 
 
 Graphviz
 - - - 
-Graphviz est un logiciel de visualisation graphique. La visualisation graphique permet de représenter de l'information structurée sous forme de diagrames de schémas abstraits et de réseaux.
-Il trouve une application dans la représentation de réseaux en bio informatique, génie logiciel, pour par exemple visualiser des bases de données, dans la conception de sites web. Donc principalement dans des domaines techniques.
 
-Le programme décrit des graphiques dans un simple format (langage) texte et produit des graphiques au format image ou svg (vectoriel).
+"Graph Visualization Software".
 
-Graphviz dispose d'un certain nombre de fonctionalités qui permettent d'ajuster les couleurs, la typographie, les liaisons et formes de noeuds. 
+visualisation graphique
+
+Language de description de relations
++ ensemble de logiciels open source.
+
+AT\&T: visualizer les réseaux téléphonique.
+
+ex. utilistation: 
+- bio informatique
+- génie logiciel
+- visualiser des bases de données
+
+souvent domaines techniques.
+
+OSP détourne l'usage, le logiciel libre invite à celà.
+
+décrit connexions: simple format texte
+relations noeuds: ex. "A" -> "B".
+lisible et écrivable par les humains ou des machines.
+produit des graphiques au format image ou svg (vectoriel).
+
+Différents algorithmes permettent de créer des visualizations graphiques
+exportables dans différents formats (par exemple PDF, ou image Jpeg)
+
+mise en page intelligente:
+  - relative les uns aux autres,
+  - chaque noeuds est dépendant de son contexte
+  - éviter les collisions
+  - permettre la plus grande compacité.
+
+- Plein d'options pour changer l'aspect
+- possibilité d'éditer les fichiers de sortie également.
