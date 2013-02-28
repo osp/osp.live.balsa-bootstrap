@@ -1,3 +1,5 @@
+\fdp -Tpng -o creation.png creation.dot
+
 digraph {
 graph [fontname="Ume P Gothic Balsa", margin=0, start=1, splines=true, bgcolor=transparent ]
 
